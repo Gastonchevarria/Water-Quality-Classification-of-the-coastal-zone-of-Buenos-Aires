@@ -1,0 +1,655 @@
+Sitios;Codigo;Tem_agua;Tem_aire;OD;pH;Olores;Color;Espumas;Mat_susp;colif_totales_ufc_100ml;escher_coli_ufc_100ml;enteroc_ufc_100ml;Nitrato_mg_l;NH4_mg_l;P_total_l_mg_l;Fosf_ortofos_mg_l;DBO_mg_l;DQO_mg_l;Turbiedad_NTU;Hidr_Deriv_Petr_ug_l;Cr_total_mg_l;Cd_total_mg_l;Clorofila_a_ug_l
+Canales;TI001;24,5;23;5,3;6,56;Ausencia;Ausencia;Ausencia;Presencia;2200;100;130;2,9;0,42;0,23;0,15;6,2;29;90;0,1;0;0;0,01
+Rios;TI006;25,4;23;2,25;6,56;Presencia;Presencia;Ausencia;Ausencia;1200;200;400;3,3;0,51;0,41;0,35;5,8;29;34;0,1;0;0;0,01
+Canales;TI001;24,6;23;2,94;6,59;Ausencia;Presencia;Ausencia;Ausencia;1800;200;580;6,5;0,05;0,59;0,54;1,9;29;17;0,1;0;0;0,01
+Rios;TI006;25,2;23;2,22;7,45;Presencia;Presencia;Ausencia;Ausencia;1400;100;300;7,4;1;0,38;0,4;5,8;29;23;0,1;0;0;0,01
+Rios;TI006;24,1;20;1,02;6,39;Ausencia;Presencia;Ausencia;Presencia;1100;100;370;8,8;0,05;0,55;0,54;2,6;59;18;0,1;0;0;0,01
+Rios;TI006;24,9;23;3,5;6,53;Ausencia;Ausencia;Ausencia;Presencia;3200;200;750;4,4;3,5;1,1;0,91;3,9;130;;0,1;0;0;0,01
+Rios;TI006;24,5;20;1,5;6,54;Ausencia;Presencia;Ausencia;Presencia;18000;1500;100;5,6;2;0,73;0,6;3,5;42;12;0,09;0;0;0,01
+Rios;TI006;24,5;21;6,3;6,48;Ausencia;Presencia;Ausencia;Ausencia;1000;200;1200;3,1;0,05;0,17;0,16;5,5;69;90;0,09;0;0;0,01
+Arroyos;TI009;23,4;21;4,49;6,76;Ausencia;Ausencia;Ausencia;Ausencia;400;100;220;1,9;0,1;0,21;0,19;1,9;29;39;0,09;0;0;0,01
+Costaneras;VL031;21,5;23;3,85;6,66;Ausencia;Ausencia;Ausencia;Presencia;2200;100;270;5,4;0,05;0,28;0,39;1,9;29;28;0,09;0;0;0,01
+Reservas y Puertos;SI022;27;26;5,83;6,9;Ausencia;Ausencia;Ausencia;Ausencia;6000;800;760;5,9;0,75;0,22;0,18;1,9;41;19;0,09;0;0;0,01
+Ensenada;EN084;26,1;27;1,8;6,2;Ausencia;Ausencia;Ausencia;Presencia;28000;5200;3300;1,9;7,2;0,43;0,32;7,1;29;;0,09;0;0;0,01
+Reservas y Puertos;SI022;;23;;;Ausencia;Ausencia;Ausencia;Ausencia;5500;100;650;4,9;0,94;0,28;0,33;1,9;29;14;0,09;0;0;0,01
+Reservas y Puertos;SI022;;22;;;Ausencia;Ausencia;Ausencia;Ausencia;6500;200;1700;7,3;0,63;0,27;0,32;1,9;29;17;0,09;0;0;0,01
+Costaneras;VL031;;22;;;Ausencia;Ausencia;Ausencia;Ausencia;4200;500;240;5,9;0,41;0,24;0,69;1,9;29;22;0,09;0;0;0,01
+Reservas y Puertos;SI022;26,1;;4,8;7,4;Ausencia;Ausencia;Ausencia;Ausencia;1800;1300;10;4,6;1,2;0,24;0,2;;29;22;;0;0;
+Costaneras;VL031;25,4;;7,3;7,4;Ausencia;Ausencia;Ausencia;Ausencia;900;700;30;4;0,9;0,33;0,36;11;29;22;;0;0;
+Reservas y Puertos;SI022;24,7;;5,6;7,4;Ausencia;Ausencia;Ausencia;Ausencia;1300;600;100;3,1;0,6;0,22;0,2;7;29;35;;0;0;
+Reservas y Puertos;SI022;24,7;;8;7,5;Ausencia;Ausencia;Ausencia;Ausencia;400;200;20;5,1;0,5;0,18;0,35;4,9;29;31;;0;0;
+Ensenada;EN084;27,37;22;3,63;7,43;Ausencia;Ausencia;Ausencia;Ausencia;2700;2100;350;10;0,05;0,65;0,65;5,2;29;12;0,09;0;0;0,07
+Playas;BS091;25,69;22;4,13;7,58;Ausencia;Ausencia;Ausencia;Ausencia;5200;600;180;6,9;0,97;0,42;0,34;5,2;46;22;0,09;0;0;0,02
+Arroyos;TI009;26,25;25;4,43;7,81;Ausencia;Ausencia;Ausencia;Ausencia;2500;2000;140;8,6;0,05;0,69;0,52;9,2;29;17;0,09;0;0;0,13
+Costaneras;VL031;25,12;25;7,51;8,62;Ausencia;Ausencia;Ausencia;Ausencia;1400;300;2200;8,9;0,8;0,85;0,49;15;94;19;0,09;0;0;0,01
+Arroyos;TI009;25,8;25;9,29;8,83;Ausencia;Ausencia;Ausencia;Ausencia;3800;1600;1100;6,5;1,9;0,8;0,69;14;35;13;0,09;0;0;0,01
+Ensenada;EN084;23;22;10,6;8,2;Ausencia;Ausencia;Ausencia;Ausencia;1200;100;20;6;0,05;0,4;0,39;1,9;29;26;0,09;0;0;0,04
+Reservas y Puertos;SI022;24;23;9,59;7,94;Ausencia;Ausencia;Ausencia;Ausencia;1000;100;10;5,7;0,06;0,39;0,29;;29;26;0,09;0;0;0,03
+Ensenada;EN084;23;22;12,15;8,5;Ausencia;Ausencia;Ausencia;Ausencia;1000;200;10;4,3;0,05;0,37;0,31;4,4;49;36;0,09;0;0;0,14
+Berisso;BS095;23;20;7,91;7,93;Ausencia;Ausencia;Ausencia;Ausencia;3000;100;450;4,1;0,08;0,37;0,27;12;29;45;0,09;0;0;0,16
+Costaneras;VL031;26;23;9,58;9,01;Ausencia;Ausencia;Ausencia;Ausencia;1100;300;1500;4;0,08;0,57;0,58;7,2;135;85;0,09;0;0;0,41
+Berisso;BS095;;25;;;Ausencia;Ausencia;Ausencia;Ausencia;;;;5,6;0,05;0,33;0,32;3,1;29;45;0,09;0,01;0;0,05
+Reservas y Puertos;SI022;23,4;27;10,34;9,16;Presencia;Presencia;Presencia;Presencia;1200;100;40;5,2;0,06;0,39;0,38;4,7;29;65;0,09;0;0;0,08
+TOMA DE AGUA;EN082;24,7;27;7,17;8,11;Ausencia;Ausencia;Ausencia;Ausencia;750;300;130;6,3;0,05;0,35;0,24;1,9;29;34;0,09;0;0;0,01
+Arroyos;TI009;24,2;27;3,54;7,76;Ausencia;Ausencia;Ausencia;Ausencia;5000;400;850;13,1;0,05;0,33;0,21;7,4;29;12;0,09;0;0;0,01
+Ensenada;EN084;23,9;27;8,08;8,31;Ausencia;Ausencia;Ausencia;Ausencia;1800;100;80;8;0,1;0,27;0,22;1,9;29;35;0,09;0;0;0,02
+Balnearios;BS092;22;20;6,59;7,91;Ausencia;Ausencia;Ausencia;Ausencia;700;100;360;2,9;0,05;1,3;0,5;5;29;11;0,09;0;0;0,01
+Costaneras;VL031;20;18;6,56;8,11;Presencia;Presencia;Presencia;Presencia;150000;2800;20000;1,99;0,05;1,5;1,3;8,4;29;;0,09;0;0;0,01
+Playas;BS091;20;18;6,03;7,3;Ausencia;Ausencia;Ausencia;Ausencia;3500;200;1800;1,9;0,23;1,4;0,44;5,4;47;18;0,09;0;0;0,01
+Balnearios;BS092;20;17;7,4;7,84;Ausencia;Ausencia;Ausencia;Ausencia;5000;200;1100;2,2;0,45;0,44;0,68;;29;130;0,09;0,01;0;0,01
+Playas;BS091;20;17;6,99;7,75;Ausencia;Ausencia;Ausencia;Ausencia;6000;100;7500;1,9;0,18;0,54;0,85;2,4;32;110;0,09;0,01;0;0,01
+Canales;TI001;14,8;13;9,9;7,09;ausencia;ausencia;ausencia;ausencia;1000;200;68;2,1;1,1;0,2;0,1;2;30;27;100;0,005;0,001;0,01
+Rios;TI006;14,5;13;2,54;6,8;ausencia;ausencia;ausencia;ausencia;10000;2000;150;2;4,7;0,48;0,57;6,8;30;22;100;0,005;0,001;0,013
+Canales;TI001;14,7;14;2,3;6,8;Presencia;ausencia;ausencia;Presencia;30000;10000;240;2;3;0,57;0,58;5;30;21;100;0,005;0,001;0,01
+Rios;TI006;14,4;11;3,31;6,79;ausencia;ausencia;ausencia;ausencia;10000;10000;1700;2,1;2,8;0,44;0,48;4,6;30;20;100;0,005;0,001;0,01
+Rios;TI006;14,8;14;5,33;6,82;Presencia;ausencia;ausencia;ausencia;1000;500;100;2,2;0,8;0,36;0,35;2,1;30;21;100;0,005;0,001;0,01
+Rios;TI006;14,4;8;1,46;6,8;Presencia;Presencia;Presencia;ausencia;100000;10000;400;2;5,7;0,65;0,68;8,6;30;16;100;0,005;0,001;0,011
+Rios;TI006;14,4;8;4,88;6,76;Presencia;Presencia;Presencia;ausencia;14000;2000;690;2,1;2,5;0,43;0,37;2,9;30;16;100;0,005;0,001;0,01
+Rios;TI006;14,6;9;10,08;6,88;ausencia;ausencia;ausencia;ausencia;1000;600;100;2,1;0,3;0,2;0,1;2;30;22;100;0,005;0,001;0,01
+Arroyos;TI009;13,8;11;9,5;7,06;ausencia;ausencia;ausencia;ausencia;;;;2,2;0,05;0,2;0,1;2;30;29;100;0,005;0,001;0,01
+Costaneras;VL031;18;12;5,95;7,32;ausencia;ausencia;ausencia;ausencia;3000;100;40;2,3;1;0,26;0,3;2,7;30;25;100;0,005;0,001;0,01
+Reservas y Puertos;SI022;16;13;8,02;7,52;ausencia;ausencia;ausencia;ausencia;1000;1000;100;7;0,8;0,35;0,35;5,5;30;20;100;0,005;0,001;0,01
+Playas;BS091;15,7;14;8,14;7,03;ausencia;ausencia;ausencia;ausencia;14000;4400;700;5,4;0,5;0,35;0,37;5,5;30;23;100;0,005;0,001;0,01
+Ensenada;EN084;17;14;4,07;7,27;ausencia;ausencia;ausencia;ausencia;80000;5000;2800;21;1,6;0,41;0,45;4,1;30;9;100;0,005;0,001;0,01
+Reservas y Puertos;SI022;13,8;11;8,9;7,81;ausencia;ausencia;ausencia;ausencia;5000;400;100;4,9;0,3;0,34;0,37;4,9;30;19;100;0,0052;0,001;0,01
+Reservas y Puertos;SI022;13,5;11;9,4;7,5;ausencia;ausencia;ausencia;ausencia;20000;3000;900;5,7;0,3;0,32;0,31;4;30;24;100;0,005;0,001;0,01
+Costaneras;VL031;14;11;9,08;7,59;ausencia;ausencia;ausencia;ausencia;20000;7000;800;5,2;0,1;0,31;0,32;4,7;30;16;100;0,005;0,001;0,01
+Reservas y Puertos;SI022;15,2;;6,9;7,6;ausencia;ausencia;ausencia;ausencia;50000;11000;4100;4,2;3,09;0,1;0,38;5;50;32;100;0,01;0,001;0,01
+Costaneras;VL031;14,5;;8,6;7,6;ausencia;ausencia;ausencia;ausencia;13000;6000;3100;3,4;1,8;0,08;0,19;5;50;31;100;0,01;0,001;0,01
+Reservas y Puertos;SI022;14,7;;8,6;7,6;ausencia;ausencia;ausencia;ausencia;4000;3800;810;3,6;1,8;0,08;0,2;5;50;31;100;0,01;0,001;0,01
+Reservas y Puertos;SI022;15,2;;7,95;7,11;ausencia;ausencia;ausencia;ausencia;1000;1000;260;4,6;1,4;0,32;0,3;3,4;30;17;100;0,005;0,001;0,01
+Reservas y Puertos;SI022;15,5;;9;7,7;ausencia;ausencia;ausencia;ausencia;12000;1200;360;3,5;2,06;0,1;0,42;5;50;39,6;100;0,01;0,001;0,01
+Ensenada;EN084;15,4;12;2,16;7,05;ausencia ;ausencia ;ausencia ;ausencia ;42000;1000;800;2;2,3;0,65;0,71;4,2;32;22;100;0,005;0,001;0,01
+Playas;BS091;15,1;13;3,76;7,11;ausencia ;ausencia ;ausencia ;ausencia ;40000;3000;20;2,2;2;0,61;0,56;3,3;30;13;100;0,005;0,001;0,01
+Arroyos;TI009;14,8;13;3,7;7,04;ausencia ;ausencia ;ausencia ;ausencia ;60000;3000;100;2,1;2,2;0,73;0,63;4,8;30;11;100;0,0057;0,001;0,018
+Costaneras;VL031;14,6;13;3,73;7,07;ausencia ;ausencia ;ausencia ;ausencia ;3000;1500;300;2;3,1;0,75;0,7;10;32;10;100;0,005;0,001;0,01
+Arroyos;TI009;14,7;13;5,83;7,21;ausencia ;ausencia ;ausencia ;ausencia ;400;200;27;2,3;2,7;0,63;0,63;6,5;31;21;100;0,005;0,001;0,01
+Ensenada;EN084;14,5;7;9,29;7,29;ausencia;ausencia;ausencia;Presencia;12000;50;5;3,2;0,1;0,52;0,41;6,6;30;29;100;0,005;0,001;0,01
+Reservas y Puertos;SI022;13,6;7;8,97;8,24;ausencia;ausencia;ausencia;ausencia;2000;100;10;4,8;0,2;0,38;0,29;6,8;30;30;100;0,005;0,001;0,01
+Ensenada;EN084;13,1;7;8,63;7,93;ausencia;ausencia;ausencia;ausencia;10000;500;140;3,7;1;0,46;0,34;8,1;30;18;100;0,005;0,001;0,01
+Berisso;BS095;12;16;10,13;8,63;ausencia;ausencia;ausencia;ausencia;10000;500;100;4,1;0,6;0,29;0,24;7,1;64;16;100;0,005;0,001;0,01
+Reservas y Puertos;SI022;13;12;11,82;8,8;ausencia;ausencia;ausencia;ausencia;1000;100;300;3,5;0,7;0,22;0,2;7,7;125;12;100;0,005;0,001;0,01
+Costaneras;VL031;12;10;10,16;9,36;ausencia;ausencia;ausencia;ausencia;10000;1000;100;3,4;0,7;0,2;0,15;9,4;62;21;100;0,0052;0,001;0,221
+Reservas y Puertos;SI022;11,4;4;12,47;9,44;ausencia;ausencia;ausencia;ausencia;300;100;110;5,1;1,1;0,41;0,37;8,8;47;31;100;0,005;0,001;0,131
+TOMA DE AGUA;EN082;12,1;4;12,72;9,25;ausencia;ausencia;ausencia;ausencia;700;20;50;4,4;0,7;0,2;0,11;5,2;30;23;100;0,005;0,001;0,01
+Arroyos;TI009;12,9;4;9,27;8,04;ausencia;ausencia;ausencia;ausencia;500;100;380;3,5;2,9;0,28;0,14;6,3;30;19;100;0,005;0,001;0,01
+Ensenada;EN084;11,9;4;12,61;8,95;ausencia;ausencia;ausencia;ausencia;1600;100;160;3,9;1,8;0,2;0,11;3,6;30;23;100;0,005;0,001;0,01
+Balnearios;BS092;10;12;6,32;7,77;ausencia ;ausencia;ausencia;ausencia;80000;10000;3700;2;9,3;1,3;1,2;6,9;35;10;100;0,005;0,01;0,01
+Costaneras;VL031;10;12;6,84;8,14;presencia;presencia;presencia;presencia;100000;30000;6200;2;13;1,5;1,5;5,5;125;8,7;100;0,005;0,001;0,01
+Playas;BS091;8;10;9,7;8,04;ausencia;ausencia;ausencia;ausencia;15000;1500;1000;4,2;0,2;0,56;0,44;7;30;29;100;0,005;0,001;0,01
+Balnearios;BS092;7;9;9,99;9,22;ausencia;Ausencia;ausencia;ausencia;300;20;20;2;1,3;0,33;0,23;5;30;75;100;0,005;0,001;0,01
+Playas;BS091;7;8;10,7;9,19;ausencia;ausencia;ausencia;ausencia;4200;80;240;2;0,7;0,45;0,22;7,3;37;75;100;0,005;0,001;0,01
+Canales;TI001;24,4;29;7,28;6,91;Ausencia;Ausencia;Ausencia;Presencia;400;200;65;2,7;0,44;0,27;0,12;2;31;45;100;0,005;0,001;0,004
+Rios;TI006;25,4;33;6,2;6,9;Ausencia;Ausencia;Ausencia;Presencia;2000;1000;58;4,2;3,3;0,2;0,14;2;37;36;100;0,005;0,001;0,004
+Canales;TI001;24,6;29;1,81;6,71;Presencia;Presencia;Ausencia;Presencia;4000;1000;1350;2;3,1;0,47;0,39;6;43;19;100;0,005;0,001;0,03
+Rios;TI006;23,8;31;4,71;6,77;Ausencia;Ausencia;Ausencia;Presencia;3000;2000;10;2;0,3;0,2;0,19;2;37;33;100;0,005;0,001;0
+Rios;TI006;24,7;31;5,07;6,75;Presencia;Presencia;Ausencia;Presencia;6200;1400;200;2,2;0,05;0,21;0,2;2,2;33;31;100;0,005;0,001;0,001
+Rios;TI006;23;27;0,82;7,19;Presencia;Presencia;Ausencia;Presencia;30000;5000;1340;2;9,7;1,1;1,3;12;65;13;100;0,005;0,001;0,012
+Rios;TI006;24,2;32;3,9;6,71;Ausencia;Presencia;Ausencia;Presencia;15000;12000;430;2;1,8;0,25;0,39;4,2;31;21;100;0,005;0,001;0,004
+Rios;TI006;24,8;32;7,27;7,13;Ausencia;Ausencia;Ausencia;Ausencia;8000;150;40;2;0,09;0,2;0,1;2;30;32;100;0,005;0,001;0,002
+Arroyos;TI009;24;32;6,12;6,96;Ausencia;Ausencia;Ausencia;Ausencia;5000;2000;40;4;0,44;0,2;0,1;2;34;33;100;0,005;0,001;0,002
+Costaneras;VL031;22;25;3,61;8,13;Ausencia;Ausencia;Ausencia;Ausencia;3000;300;30;2;1,1;0,27;0,29;2,3;57;17;100;0,005;0,001;0,002
+Reservas y Puertos;SI022;25;32;6,4;7,4;Ausencia;Ausencia;Ausencia;Ausencia;15000;2400;290;3,4;2,1;0,31;0,27;2,8;39;11;100;0,005;0,001;0,01
+Playas;BS091;27,5;32;7,19;7,55;Ausencia;Ausencia;Ausencia;Ausencia;4000;300;30;5,6;0,1;0,31;0,3;2;42;7,6;100;0,005;0,001;0,01
+Ensenada;EN084;26;32;5,9;7,3;Ausencia;Ausencia;Ausencia;Ausencia;5000;2000;450;9;0,6;0,36;0,32;3,1;34;9,4;100;0,005;0,001;0,01
+Reservas y Puertos;SI022;25,8;24;8,12;7,24;Ausencia;Ausencia;Ausencia;Ausencia;8300;900;360;4,9;1,1;0,34;0,3;3,2;67;6;100;0,005;0,001;0,01
+Reservas y Puertos;SI022;23,6;24;7;7,14;Ausencia;Ausencia;Presencia;Presencia;28000;300;500;6,1;0,6;0,32;0,3;2,1;59;7,1;100;0,005;0,001;0,01
+Costaneras;VL031;22,4;24;7,21;7,17;Ausencia;Ausencia;Ausencia;Ausencia;8000;3000;300;5,2;0,05;0,28;0,26;2,2;30;9,3;100;0,005;0,001;0,01
+Reservas y Puertos;SI022;24,7;;7,2;7,7;Ausencia;Ausencia;Ausencia;Ausencia;23000;2500;5200;5,3;1,6;0,27;0,33;4,2;41;16;100;0,005;0,001;0,015
+Reservas y Puertos;SI022;23,8;31;6,8;7,36;Ausencia;Ausencia;Ausencia;Ausencia;5200;1200;240;3,6;0,7;0,2;0,16;2;30;18;100;0,005;0,001;0,01
+Reservas y Puertos;SI022;25,5;33;6,49;7,68;Ausencia;Ausencia;Ausencia;Presencia;8400;2700;330;4,7;1,4;0,34;0,31;5,3;66;11;100;0,005;0,001;0,01
+Reservas y Puertos;SI022;23,5;33;1,8;7,12;Ausencia;Ausencia;Ausencia;Ausencia;1400;600;90;2,4;0,11;0,51;0,69;4,2;41;3,9;100;0,005;0,001;0,01
+Reservas y Puertos;SI022;27,2;33;6,52;7,7;Ausencia;Ausencia;Ausencia;Ausencia;300;100;260;2;0,22;0,23;0,24;4,9;68;20;100;0,005;0,001;0,01
+Costaneras;VL031;24,9;;8,1;8,1;Ausencia;Ausencia;Ausencia;Ausencia;35000;5200;6100;4,4;1,7;0,25;0,27;6,9;35;13;100;0,005;0,001;0,012
+Reservas y Puertos;SI022;24,2;;7,8;7,7;Ausencia;Ausencia;Ausencia;Ausencia;100000;45000;490;6,1;2,5;0,2;0,17;5,7;35;21;100;0,005;0,001;0,015
+Reservas y Puertos;SI022;23,8;;7,9;7,6;Ausencia;Ausencia;Ausencia;Ausencia;3000;230;240;4,7;0,05;0,33;0,31;5,2;38;10;100;0,005;0,001;0,001
+Ensenada;EN084;21,4;28;4,24;6,85;Ausencia;Ausencia;Ausencia;Ausencia;1000;100;190;2;1;0,25;0,28;2,7;73;14;100;0,005;0,001;0,001
+Playas;BS091;23,9;28;4,59;6,76;Ausencia;Ausencia;Ausencia;Ausencia;2000;100;100;2;1,5;0,25;0,29;2,4;52;15;100;0,005;0,001;0,01
+Arroyos;TI009;21,4;29;4,82;6,82;Ausencia;Ausencia;Ausencia;Ausencia;2000;1000;200;2;0,1;0,35;0,38;3,5;30;13;100;0,005;0,001;0,01
+Costaneras;VL031;25;29;4,24;6,94;Ausencia;Ausencia;Ausencia;Ausencia;6000;200;100;2,2;0,4;0,36;0,41;3,7;37;12;100;0,005;0,001;0,008
+Arroyos;TI009;26;29;0,74;6,96;Ausencia;Ausencia;Ausencia;Ausencia;100000;50000;2100;2;3,1;0,75;0,76;14;43;10;100;0,005;0,001;0,043
+Ensenada;EN084;23,1;28;8,83;7,43;Presencia;Ausencia;Ausencia;Ausencia;4000;500;5;2;0,8;0,24;0,53;6,2;37;9,9;100;0,005;0,001;0,02
+Reservas y Puertos;SI022;23,5;28;8,84;7,59;Ausencia;Ausencia;Ausencia;Ausencia;3000;100;34;5,1;1,6;0,32;0,29;5,8;36;16;100;0,005;0,001;0,042
+Ensenada;EN084;24,3;28;13,18;8,11;Ausencia;Ausencia;Ausencia;Ausencia;2800;100;40;2,9;0,6;0,57;0,51;4,4;88;11;100;0,005;0,001;0,072
+Berisso;BS095;27;27;12,65;9,18;Ausencia;Ausencia;Ausencia;Ausencia;6000;1400;100;5,7;0,89;0,75;0,59;;140;70;100;0,005;0,001;0,213
+Reservas y Puertos;SI022;26;26;12,47;9,07;Ausencia;Ausencia;Ausencia;Ausencia;800;200;30;5,9;0,5;0,36;0,25;;52;27;100;0,005;0,001;0,099
+Costaneras;VL031;26;26;11,52;8,94;Ausencia;Ausencia;Ausencia;Ausencia;190000;20000;500;5,4;0,34;0,47;0,19;13;;50;100;0,0057;0,001;0,84
+Berisso;BS095;;28;;;Ausencia;Ausencia;Ausencia;Ausencia;6000;200;20;7,5;0,07;0,43;0,19;5,6;61;31;100;0,0059;0,001;0,079
+Reservas y Puertos;SI022;22,7;27;12,22;9,18;Ausencia;Ausencia;Ausencia;Ausencia;300;20;4;6,9;0,14;0,33;0,16;7,1;82;45;100;0,005;0,001;0,11
+TOMA DE AGUA;EN082;24,7;27;8,57;8,17;Ausencia;Ausencia;Ausencia;Ausencia;100;5;6;6,2;0,61;0,21;0,18;2,1;30;14;100;0,005;0,001;0,01
+Arroyos;TI009;22,4;27;3,91;7,56;Ausencia;Ausencia;Ausencia;Ausencia;6100;5100;660;4,6;4,1;0,28;0,1;12;48;15;100;0,005;0,001;0,01
+Ensenada;EN084;22;27;8,7;8,15;Ausencia;Ausencia;Ausencia;Ausencia;400;100;225;7,9;0,74;0,22;0,13;3,9;41;25;100;0,005;0,001;0,025
+Balnearios;BS092;10;19;8,2;8,01;Ausencia;Ausencia;Ausencia;Presencia;40000;1000;12;3,5;3,1;1,1;0,25;6,8;62;14;100;0,005;0,001;0,063
+Costaneras;VL031;10;19;5,79;7,71;Presencia;Presencia;Presencia;Presencia;140000;12000;28000;2;14;1,6;1,5;11;55;7;100;0,005;0,001;0,026
+Playas;BS091;11;19;5,7;7,78;Ausencia;Presencia;Ausencia;Presencia;10000;700;300;2;0,9;1,1;1,2;3;50;4,9;100;0,005;0,001;0,01
+Balnearios;BS092;11;19;7,58;8,21;Ausencia;Ausencia;Ausencia;Ausencia;110;290;15;4,1;0,41;0,31;0,27;2,5;57;70;100;0,005;0,001;0,042
+Playas;BS091;11;19;8,29;8,39;Ausencia;Presencia;Ausencia;Presencia;3600;170;2;3,9;0,11;0,2;0,11;3;58;50;100;0,005;0,001;0,084
+Canales;TI001;15,6;13;8,28;6,79;Ausencia;Ausencia;Ausencia;Ausencia;4000;200;50;3;0,98;0,2;4,1;2;30;110;100;0,005;0,001;9
+Rios;TI006;15,7;13;6,9;7;Ausencia;Ausencia;Ausencia;Ausencia;30000;1000;800;2,9;0,57;0,2;4,3;2;30;150;100;0,005;0,001;9
+Canales;TI001;15,7;13;4,82;7,04;Ausencia;Ausencia;Ausencia;Ausencia;80000;60000;5600;2,9;4,3;0,51;4,8;5,6;30;70;100;0,005;0,001;9
+Rios;TI006;15,1;13;4,87;7,05;Ausencia;Ausencia;Ausencia;Ausencia;40000;20000;1500;2,9;4,5;0,5;7,5;5,2;30;110;100;0,005;0,001;9
+Rios;TI006;15,3;13;4,74;6,75;Presencia;Presencia;Ausencia;Ausencia;82000;25000;2100;2,9;3,2;0,44;7,2;3,3;30;110;100;0,005;0,001;9
+Rios;TI006;15,3;12;4,25;6,74;Presencia;Presencia;Ausencia;Ausencia;120000;48000;4600;2,8;4,5;0,55;6,5;5,6;30;85;100;0,007;0,001;9
+Rios;TI006;15,9;8;1,61;6,7;Presencia;Ausencia;Ausencia;Ausencia;9000;2000;100;2,8;5,6;0,62;7,3;4,9;30;45;100;0,005;0,001;9
+Rios;TI006;15,2;12;8,63;6,92;Ausencia;Ausencia;Ausencia;Ausencia;;;;2,8;0,16;0,2;3,9;2;30;160;100;0,005;0,001;9
+Arroyos;TI009;12,8;8;8,2;6,89;Ausencia;Ausencia;Ausencia;Ausencia;5300;400;90;2,7;0,34;0,2;5,8;2;30;140;100;0,005;0,001;9
+Reservas y Puertos;SI022;16;17;9,37;8,01;ausencia;ausencia;ausencia;ausencia;88000;6000;1300;6,6;0,97;0,27;8,7;4,5;30;210;100;0,005;0,001;9
+Playas;BS091;15;16;9,44;7,99;ausencia;ausencia;ausencia;ausencia;2500;2000;100;6,2;0,82;0,36;13;3,9;30;340;100;0,007;0,001;9
+Ensenada;EN084;18;17;3,29;7,42;ausencia;ausencia;ausencia;ausencia;15000;12000;2000;22,1;5;0,51;4,3;5,6;30;6,9;100;0,005;0,001;9
+Reservas y Puertos;SI022;15;14;10,01;7,59;ausencia;ausencia;ausencia;ausencia;6000;2000;830;5,8;0,9;0,36;8,9;4,3;30;250;100;0,005;0,001;9
+Reservas y Puertos;SI022;14,8;14;9,32;7,81;ausencia;ausencia;ausencia;ausencia;4000;2000;1400;5,7;0,9;0,3;6,8;4,1;30;220;100;0,005;0,001;9
+Costaneras;VL031;14,8;14;8,37;7,96;ausencia;ausencia;ausencia;ausencia;10000;7500;2300;6,3;2,1;0,36;6,1;6,1;30;120;100;0,005;0,001;9
+Ensenada;EN084;16,8;14;3,76;7,48;Ausencia;Ausencia;Ausencia;Ausencia;180000;70000;500;3,9;3,9;0,77;6,7;15;36;65;100;0,005;0,001;
+Playas;BS091;16,2;14;5,95;7,79;Ausencia;Ausencia;Ausencia;Ausencia;5000;2400;60;3,6;3,3;0,33;6;5,2;30;80;100;0,005;0,001;9
+Arroyos;TI009;16,2;14;4,67;7,69;Ausencia;Ausencia;Ausencia;Ausencia;9000;6400;600;3,4;2,7;0,48;7,4;7,1;30;75;100;0,005;0,001;9
+Costaneras;VL031;16,7;14;3,6;7,7;Ausencia;Ausencia;Ausencia;Ausencia;25000;6000;70;3,1;2,6;0,55;4,9;5;34;60;100;0,005;0,001;9
+Arroyos;TI009;16,7;14;3,41;7,71;Ausencia;Ausencia;Ausencia;Ausencia;32000;9000;40;3,1;2,9;0,61;8,5;5,1;30;50;100;0,005;0,001;9
+Ensenada;EN084;14,5;11;8,65;7,47;Ausencia;Ausencia;Ausencia;Presencia;6000;1000;20;3,8;1,4;0,87;8,9;12;30;50;100;0,005;0,001;9
+Reservas y Puertos;SI022;14;11;6,99;7,5;Ausencia;Ausencia;Ausencia;Presencia;5000;2800;40;4,3;3;0,53;4;4,3;30;95;100;0,005;0,001;9
+Ensenada;EN084;15;11;7,58;7,42;Ausencia;Ausencia;Ausencia;Ausencia;7000;2000;10;4,4;0,82;0,73;7;4,5;30;70;100;0,005;0,001;9
+Berisso;BS095;13;18;15,2;9,66;Ausencia;Ausencia;Ausencia;Ausencia;20000;1000;500;4,3;0,08;0,22;3;9,5;40;65;100;0,005;0,001;28
+Reservas y Puertos;SI022;13;16;12,39;9,23;Ausencia;Ausencia;Ausencia;Ausencia;29000;1000;800;5,9;0,24;0,22;4,2;9,8;33;75;100;0,005;0,001;4
+Costaneras;VL031;11;15;12,67;9,44;Ausencia;Ausencia;Ausencia;Ausencia;5000;800;600;3,2;0,1;0,75;3,1;11;43;80;100;0,008;0,001;9
+Reservas y Puertos;SI022;12,9;12;12,04;9,32;ausencia;ausencia;ausencia;ausencia;300;20;10;5,4;7;0,57;4,1;8,8;30;60;100;0,005;0,001;9
+TOMA DE AGUA;EN082;14,2;12;11,48;8,95;ausencia;ausencia;ausencia;ausencia;400;30;10;6,4;0,26;0,26;2,1;2,8;30;45;100;0,005;0,001;9
+Arroyos;TI009;14,5;11;4,47;7,68;ausencia;ausencia;ausencia;ausencia;10000;2800;1600;6,5;4,3;0,38;3,8;12;30;16;100;0,005;0,001;9
+Ensenada;EN084;14,4;11;9,11;8,1;ausencia;ausencia;ausencia;ausencia;600;100;20;8,1;0,06;0,23;3,2;2,2;30;39;100;0,005;0,001;9
+Canales;TI001;22,3;19;4,69;7,44;Ausencia;Ausencia;Ausencia;Ausencia;;50;;2;0,05;;;9;0,64;80;50;0,006;0,002;14
+Rios;TI006;22,3;18;2,58;7,47;Ausencia;Ausencia;Ausencia;Presencia;;18300;;1,5;5,2;;;11;1,1;65;50;0,006;0,002;20
+Canales;TI001;22,3;19;2,51;7,44;Ausencia;Ausencia;Ausencia;Ausencia;;11600;;1,8;5,7;;;12;1;75;50;0,006;0,002;14
+Rios;TI006;22,1;18;1,73;7,36;Ausencia;Ausencia;Ausencia;Ausencia;;3100;;1,3;3,2;;;14;0,84;80;65;0,006;0,002;11
+Rios;TI006;20,8;18;1,83;7,43;Ausencia;Ausencia;Ausencia;Ausencia;;2800;;1,4;4,5;;;13;0,84;65;50;0,006;0,002;10
+Rios;TI006;22,2;18;1,7;7,41;Ausencia;Ausencia;Ausencia;Ausencia;;7700;;1,3;4,5;;;12;0,84;65;115;0,006;0,002;10
+Rios;TI006;21,8;17;1,58;7,38;Ausencia;Ausencia;Ausencia;Ausencia;;7500;;1,6;4,13;;;15;0,77;55;50;0,006;0,002;10
+Rios;TI006;22,6;20;5,6;7,35;Ausencia;Ausencia;Ausencia;Ausencia;;50;;1,9;0,14;;;11;0,45;85;50;0,006;0,002;10
+Arroyos;TI009;21,6;20;4,55;7,08;Ausencia;Ausencia;Ausencia;Ausencia;;400;;2;0,19;;;16;0,45;100;50;0,006;0,002;12
+Costaneras;VL031;;19;;;Ausencia;Ausencia;Ausencia;Ausencia;;3300;;1,5;2,3;;;15;0,77;80;145;0,006;0,002;10
+Reservas y Puertos;SI022;20;23;;;Ausencia;Ausencia;Ausencia;Ausencia;;5800;;1,4;0,88;;;10;0,58;95;50;0,006;0,002;11
+Playas;BS091;20;20;;;Ausencia;Ausencia;Ausencia;Ausencia;;14400;;5,3;0,24;;;8;0,71;100;75;0,006;0,002;10
+Ensenada;EN084;20;20;;;Ausencia;Ausencia;Ausencia;Presencia;;279000;;10,6;7,8;;;28;1;15;50;0,006;0,002;10
+Reservas y Puertos;SI022;20,4;19;8,9;7,73;Ausencia;Ausencia;Ausencia;Ausencia;;13600;;7,4;0,9;;;14;0,64;92;50;0,006;0,002;10
+Reservas y Puertos;SI022;19,8;17;8,2;7,35;Ausencia;Ausencia;Ausencia;Ausencia;;14600;;6;0,65;;;16;0,58;95;50;0,006;0,002;11
+Costaneras;VL031;19,4;17;7,7;7,29;Ausencia;Ausencia;Ausencia;Presencia;;23600;;6,5;1,2;;;12;0,64;100;50;0,006;0,002;10
+Reservas y Puertos;SI022;22,4;20;8,7;8;Ausencia;;Ausencia;Ausencia;;5600;;;0,5;;;5;0,77;73;50;;0,002;10
+Costaneras;VL031;20,4;19;9;7,7;Ausencia;;Ausencia;Ausencia;;1600;;;0,8;;;5;0,51;95;50;;0,002;15
+Reservas y Puertos;SI022;21,5;18;8,8;7,9;Ausencia;;Ausencia;Ausencia;;2400;;;0,73;;;5;0,71;112;50;;0,002;12
+Reservas y Puertos;SI022;20,5;18;9;8,1;Ausencia;;Ausencia;Ausencia;;570;;;0,3;;;5;0,77;68;118;;0,002;10
+Ensenada;EN084;21,8;;7,84;7,85;;;;;;2400;;4,3;1,8;;;16;2,2;55;50;0,006;0,002;28
+Playas;BS091;21,8;;9,49;8,18;Ausencia;Ausencia;Ausencia;Ausencia;;7800;;3,9;2,5;;;20;0,77;70;50;0,006;0,002;49
+Arroyos;TI009;19,4;;11,01;8,44;;;;;;2200;;6,9;0,76;;;16;0,45;100;54;0,006;0,002;26
+Costaneras;VL031;20,1;;10,56;8,37;Ausencia;Ausencia;Ausencia;Ausencia;;3300;;5,4;0,72;;;12;0,64;100;50;0,006;0,002;50
+Arroyos;TI009;19,9;;10,37;8,3;;;;;;1800;;7,7;0,75;;;14;0,64;100;50;0,006;0,002;47
+Berisso;BS095;22;20;7,68;8,13;Ausencia;Ausencia;Ausencia;Ausencia;;550;;6,2;0,87;;;22;1,05;68;65;0,006;0,002;84
+Reservas y Puertos;SI022;20;20;8,4;7,96;Ausencia;Ausencia;Ausencia;Ausencia;;50;;7,9;0,23;;;22;0,84;100;50;0,006;0,002;17
+Costaneras;VL031;18;18;9,76;7,88;Ausencia;Ausencia;Ausencia;Ausencia;;50;;7,2;0,05;;;16;0,71;100;50;0,006;0,002;38
+Reservas y Puertos;SI022;19,7;13;9,42;8,03;Ausencia;Presencia;Ausencia;Ausencia;;1300;;6,3;0,81;;;20;0,71;100;50;0,006;0,002;16
+TOMA DE AGUA;EN082;18,5;13;6,12;7,71;Ausencia;Ausencia;Ausencia;Presencia;;250;;7,3;0,47;;;18;0,38;100;50;0,006;0,002;10
+Arroyos;TI009;21,2;13;2,42;8,12;Ausencia;Presencia;Ausencia;Ausencia;;8400;;2,5;11,4;;;20;0,7;35;50;0,006;0,002;32
+Ensenada;EN084;19,6;13;6,67;7,72;Ausencia;Presencia;Ausencia;Ausencia;;750;;8,2;0,29;;;9;0,58;100;50;0,006;0,002;15
+Canales;TI001;26,6;22;6,26;7,37;Ausencia;Ausencia;Ausencia;Ausencia;;700;;1,3;0,05;;;8;0,15;110;50;0,006;0,002;10
+Rios;TI006;26;22;1,95;7,36;Ausencia;Ausencia;Ausencia;Ausencia;;4600;;2,8;0,73;;;8;0,16;70;50;0,006;0,002;10
+Canales;TI001;26;22;1,04;7,44;Ausencia;Ausencia;Ausencia;Ausencia;;6600;;2,2;1,4;;;10;0,17;55;50;0,006;0,002;10
+Rios;TI006;25,5;22;1,87;7,35;Ausencia;Ausencia;Ausencia;Ausencia;;4700;;1,8;0,56;;;10;0,25;60;50;0,006;0,002;10
+Rios;TI006;25,7;22;0,93;7,39;Ausencia;Ausencia;Ausencia;Ausencia;;8200;;1,6;1,72;;;11;0,12;50;50;0,006;0,002;10
+Rios;TI006;26,1;22;1,16;7,47;Ausencia;Ausencia;Ausencia;Ausencia;;8000;;1,5;1,87;;;6;0,42;38;50;0,006;0,002;10
+Rios;TI006;26,8;22;1,5;7,49;Ausencia;Ausencia;Ausencia;Ausencia;;7500;;1,2;1,98;;;10;0,35;41;50;0,006;0,002;10
+Rios;TI006;26,9;25;6,49;7,56;Ausencia;Ausencia;Ausencia;Ausencia;;700;;1,1;0,18;;;9;0,2;125;50;0,006;0,002;10
+Arroyos;TI009;26,3;25;5,51;7,37;Ausencia;Ausencia;Ausencia;Ausencia;;1500;;1,2;0,13;;;8;0,17;100;50;0,006;0,002;10
+Costaneras;VL031;27,2;26;3,21;7,57;Ausencia;Ausencia;Ausencia;Presencia;;14200;;1,7;2,25;;;10;0,25;60;50;0,006;0,002;10
+Reservas y Puertos;SI022;27;26;5,64;7,7;Ausencia;Ausencia;Ausencia;Ausencia;;8300;;3,6;0,77;;;8;0,34;65;62;0,006;0,002;10
+Playas;BS091;27,5;26;5,61;7,62;Ausencia;Ausencia;Ausencia;Ausencia;;32500;;3,8;0,71;;;4;0,51;53;50;0,006;0,002;10
+Ensenada;EN084;25;26;3,2;7,73;Ausencia;Ausencia;Ausencia;Presencia;;360000;;20;3,49;;;11;0,21;6;50;0,006;0,002;10
+Reservas y Puertos;SI022;25,5;;5,4;7,13;Ausencia;Ausencia;Ausencia;Ausencia;;25000;;5,5;0,75;;;9;0,06;52;50;0,006;0,002;10
+Reservas y Puertos;SI022;25,4;;5,6;7;Ausencia;Ausencia;Ausencia;Ausencia;;17400;;5,1;0,73;;;5;0,12;43;50;0,006;0,002;10
+Costaneras;VL031;26,9;;4,5;7,03;Ausencia;Ausencia;Ausencia;Ausencia;;36800;;14,1;1,12;;;12;0,31;61;50;0,006;0,002;10
+Reservas y Puertos;SI022;25,6;;8,2;7,8;;;;;;4200;;10;0,3;;;5;0,16;81;50;0,006;0,002;10
+Costaneras;VL031;25,2;;7,4;7,5;;;;;;8500;;10;0,8;;;5;0,18;72;50;0,006;0,002;10
+Reservas y Puertos;SI022;25,1;;8,1;7,8;;;;;;11000;;10;0,5;;;7;0,22;150;50;0,006;0,002;10
+Reservas y Puertos;SI022;25,4;;8;7,8;;;;;;870;;10;0,1;;;5;0,18;103;50;0,006;0,002;10
+Ensenada;EN084;27,2;23;3,51;7,18;Ausencia;Ausencia;Ausencia;Ausencia;;7900;;5,5;0,42;;;8;0,25;68;50;0,006;0,002;10
+Playas;BS091;27,1;23;3,11;7,29;Ausencia;Ausencia;Ausencia;Ausencia;;3400;;4,2;0,62;;;10;0,1;85;50;0,006;0,002;10
+Arroyos;TI009;27,4;23;1,49;7,33;Ausencia;Ausencia;Ausencia;Ausencia;;2500;;3,1;0,15;;;6;0,16;46;50;0,006;0,002;10
+Costaneras;VL031;27,3;23;1,63;7,33;Ausencia;Ausencia;Ausencia;Ausencia;;2200;;3,1;0,2;;;10;0,31;36;50;0,006;0,002;10
+Arroyos;TI009;27;23;1,35;7,34;Ausencia;Ausencia;Ausencia;Ausencia;;2000;;3,1;0,09;;;2;0,12;40;50;0,006;0,002;10
+Ensenada;EN084;18,7;25;8,62;7,32;Ausencia;Ausencia;Ausencia;Ausencia;;50;;3,5;0,15;;;8;0,16;110;50;0,006;0,002;10
+Reservas y Puertos;SI022;19;25;8,06;7,47;Ausencia;Ausencia;Ausencia;Ausencia;;50;;3,9;0,05;;;10;0,16;100;110;0,006;0,002;10
+Ensenada;EN084;21;25;9,02;7,51;Ausencia;Ausencia;Ausencia;Presencia;;50;;5,5;0,17;;;6;0,13;70;77;0,006;0,002;10
+Berisso;BS095;27;21;4,95;7,59;Ausencia;Ausencia;Ausencia;Ausencia;;6000;;2,7;0,4;;;14;0,2;20;75;0,006;0,002;32
+Reservas y Puertos;SI022;27,5;23;6,07;8,03;Ausencia;Ausencia;Ausencia;Ausencia;;4800;;6,3;0,66;;;14;0,06;31;94;0,006;0,002;22
+Costaneras;VL031;27,3;24;7,82;7,99;Ausencia;Ausencia;Ausencia;Ausencia;;2700;;5,8;0,26;;;28;0,67;36;75;0,006;0,002;36
+Reservas y Puertos;SI022;25,5;20;4,97;7,58;Ausencia;Ausencia;Ausencia;Ausencia;;350;;5,9;0,16;;;10;0,24;70;50;0,006;0,002;10
+TOMA DE AGUA;EN082;25,9;19;4,04;7,61;Ausencia;Ausencia;Ausencia;Ausencia;;150;;6,7;0,05;;;9;0,24;58;50;0,006;0,002;10
+Arroyos;TI009;24,4;18;0,51;7,37;Ausencia;Presencia;Ausencia;Presencia;;16800;;1,2;3,35;;;12;0,09;18;50;0,006;0,002;26
+Ensenada;EN084;26,3;18;4,85;7,6;Ausencia;Ausencia;Ausencia;Ausencia;;600;;6;0,18;;;9;0,28;43;50;0,006;0,002;10
+Balnearios;BS092;;19;5,93;7,56;Ausencia;Ausencia;Ausencia;Ausencia;;1400;;1,8;0,05;;;8;0,28;10;82;0,006;0,002;13
+Costaneras;VL031;;19;4,92;7,74;Presencia;Presencia;Presencia;Presencia;;32800;;2,1;8,8;;;18;0,13;5,5;50;0,006;0,002;10
+Playas;BS091;;19;6,64;7,63;Ausencia;Ausencia;Ausencia;Ausencia;;3000;;2,1;0,3;;;8;0,13;35;50;0,006;0,002;28
+Balnearios;BS092;;19;5,8;7,86;Ausencia;Presencia;Ausencia;Presencia;;800;;1,9;0,33;;;7;0,24;200;100;0,006;0,002;10
+Playas;BS091;;19;8,08;8,1;Ausencia;Ausencia;Ausencia;Ausencia;;600;;3,5;0,05;;;5;0,24;85;74;0,006;0,002;10
+Canales;TI001;21,2;;8;7,74;Ausencia;Ausencia;Ausencia;Ausencia;800;300;100;3;0,04;;;18;0,48;89;49;0,005;0,001;0,009
+Canales;TI001;21,7;;2,34;7,46;Ausencia;Ausencia;Ausencia;Ausencia;4200;2300;1000;2,8;2,17;;;24;1,18;40;49;0,005;0,001;0,009
+Rios;TI006;21,6;;3,58;7,47;Ausencia;Ausencia;Ausencia;Ausencia;4000;2200;1300;2,9;1,94;;;24;0,56;42;49;0,005;0,001;0,009
+Rios;TI006;21,4;;3,69;7,46;Ausencia;Ausencia;Ausencia;Ausencia;6400;3000;1050;2,9;1,35;;;18;0,48;49;49;0,005;0,001;0,009
+Rios;TI006;21,3;;3,57;7,43;Ausencia;Ausencia;Ausencia;Ausencia;16500;2000;800;3,6;1,51;;;20;0,62;58;49;0,005;0,001;0,009
+Rios;TI006;21,7;;1,67;7,5;Ausencia;Ausencia;Ausencia;Ausencia;5500;5000;2200;3,3;2;;;24;0,6;56;49;0,005;0,001;0,009
+Rios;TI006;21,4;;4,25;7,47;Ausencia;Ausencia;Ausencia;Ausencia;12200;5300;3300;2,8;2,93;;;24;0,8;35;93;0,005;0,001;0,009
+Rios;TI006;21,6;;7,83;7,57;Ausencia;Ausencia;Ausencia;Ausencia;1200;400;200;3;0,04;;;14;0,58;82;59;0,005;0,001;0,009
+Arroyos;TI009;21,5;;7,91;7,65;Ausencia;Ausencia;Ausencia;Ausencia;800;400;150;2,1;0,04;;;4;0,83;69;49;0,005;0,001;0,009
+Zona Norte;SF015;20,5;;5,2;7,59;Ausencia;Ausencia;Ausencia;Presencia;6400;3100;3300;3,3;0,9;;;11;1,7;62;49;0,005;0,001;0,009
+Zona Norte;SF015;21,6;;7,05;7,85;Ausencia;Ausencia;Ausencia;Ausencia;34200;17200;5750;7,1;1,24;;;2;0,77;76;49;0,005;0,001;0,009
+Zona Norte;SF015;21,6;;7,26;7,97;Ausencia;Ausencia;Ausencia;Ausencia;22600;8500;3400;7,4;0,7;;;22;0,4;60;49;0,005;0,001;0,009
+Zona Norte;SF015;21,4;;2,4;7,57;Ausencia;Ausencia;Presencia;Ausencia;296000;261000;23900;12,6;3,28;;;24;0,29;22;60;0,005;0,001;0,009
+Zona Norte;SF015;20,8;;8,1;7,64;Ausencia;Ausencia;Ausencia;Ausencia;6400;3500;700;5,7;0,47;;;8;0,32;53;77;0,005;0,001;0,009
+Zona Norte;SF015;20,1;;8;7,31;Ausencia;Ausencia;Ausencia;Ausencia;12000;9200;2100;7,6;0,3;;;8;0,5;52;49;0,005;0,001;0,009
+Zona Norte;SF015;20,5;;7,4;7,74;Ausencia;Ausencia;Ausencia;Ausencia;81000;39000;12200;5,5;0,14;;;24;1,18;85;49;0,005;0,001;0,009
+Zona Norte;CA041;20,5;;6,3;7,6;;;;;2800;2800;1600;9;0,72;;;4;0,312;57;;0,01;0,001;0,009
+Zona Norte;CA044;21,3;;5,2;7,8;;;;;740;740;6400;9;0,95;;;4;0,175;83;;0,01;0,001;0,009
+Zona Norte;CA046;21,4;;3,6;7,7;;;;;32000;24000;9500;9;2,54;;;4;0,197;63;;0,01;0,001;0,009
+Zona Norte;CA047;20,5;;6,3;8,2;;;;;4500;4500;390;9;0,99;;;4;0,263;86;;0,01;0,001;0,009
+Avellaneda;AV054;22,9;;2,76;7;Ausencia;Ausencia;Ausencia;Ausencia;7800;4500;1850;11,3;1,2;;;8;0,5;70;49;0,005;0,001;0,009
+Avellaneda;AV054;22,8;;4,63;7,54;Ausencia;Ausencia;Ausencia;Ausencia;20800;11500;3600;9,6;1,6;;;8;0,37;46;49;0,005;0,001;0,009
+Avellaneda;AV054;22,9;;4,57;7,72;Ausencia;Ausencia;Ausencia;Ausencia;7800;2000;1050;10,9;1,2;;;5;0,5;60;49;0,005;0,001;0,009
+Avellaneda;AV055;26,7;;4,91;7,85;Ausencia;Ausencia;Ausencia;Ausencia;14000;7900;1800;14,8;1,3;;;26;0,36;44;49;0,005;0,001;0,009
+Avellaneda;AV054;24,3;;6,97;7,97;Ausencia;Ausencia;Ausencia;Ausencia;14000;4000;1050;11,1;2,4;;;13;0,54;61;49;0,005;0,001;0,009
+Avellaneda;QU061;;;;;;;;;6200;600;150;9;0,65;;;20;0,6;84;49;0,005;0,001;0,009
+Ensenada;EN084;;;;;;;;;8000;5100;950;12,6;0,41;;;9;0,42;67;49;0,005;0,001;0,009
+Ensenada;EN084;;;;;;;;;29000;24600;5200;8,4;1,17;;;6;0,33;54;71;0,005;0,001;0,009
+Berazategui ;BZ078;22,5;;6,2;7,71;Ausencia;Ausencia;Ausencia;Ausencia;16200;8400;3700;12,8;0,88;;;6;0,83;99;49;0,005;0,001;0,009
+Berazategui ;BZ078;20,5;;7,86;7,43;Ausencia;Ausencia;Ausencia;Ausencia;49500;6100;1100;11,3;0,14;;;8;1,1;99;49;0,005;0,001;12,8
+Berazategui ;BZ078;19,2;;8,56;7,37;Ausencia;Ausencia;Ausencia;Ausencia;4000;1400;150;10;0,04;;;6;0,66;91;49;0,005;0,001;10,1
+Ensenada;EN081;19,2;;9,04;8,72;Ausencia;Ausencia;Ausencia;Ausencia;6000;500;550;27;0,36;;;5;1,05;78;49;0,005;0,001;0,009
+Ensenada;EN084;19,6;;5,27;8,22;Ausencia;Ausencia;Ausencia;Ausencia;600;100;9;8,9;0,35;;;4;0,42;76;49;0,005;0,001;0,009
+Ensenada;EN083;19,6;;5,27;8,22;Ausencia;Ausencia;Ausencia;Ausencia;19400;14900;3850;5,7;4,3;;;8;0,38;24;49;0,005;0,001;0,009
+Ensenada;EN084;19,9;;6,21;8,05;Ausencia;Ausencia;Ausencia;Ausencia;2200;2000;550;8,6;0,35;;;8;0,25;55;49;0,005;0,001;0,009
+Berisso;BS092;12,4;;6,28;7,72;Ausencia;Ausencia;Ausencia;Ausencia;22200;10500;4200;5,5;4,05;;;5;0,6;6,5;49;0,005;0,001;12,2
+Berisso;BS095;12;;5,03;7,77;Presencia;Presencia;Presencia;Presencia;300001;300001;80600;6,5;5,5;;;8;0,68;8,9;49;0,005;0,001;0,009
+Berisso;BS091;12,2;;4,66;7,7;Ausencia;Ausencia;Ausencia;Ausencia;165400;124000;14500;6,9;6,18;;;7;0,66;7,6;49;0,005;0,001;12,8
+Berisso;BS095;13;;5,44;7,71;Ausencia;Ausencia;Ausencia;Ausencia;21400;19400;4900;6,6;3,77;;;8;0,5;8,1;49;0,005;0,001;11,2
+Berisso;BS093;12,3;;6;7,63;Ausencia;Ausencia;Ausencia;Ausencia;29200;18500;4100;8,4;3,5;;;5;0,81;6,2;49;0,005;0,001;0,009
+Canales;TI001;26,7;;4,26;6,95;Ausencia;Ausencia;Ausencia;Ausencia;400;140;30;5,5;0,04;;;12;0,62;56;57;0,005;0,001;0,009
+Canales;TI001;26;;3,78;6,78;Ausencia;Ausencia;Ausencia;Ausencia;300;60;9;5,2;0,16;;;8;0,43;42;49;0,005;0,001;0,009
+Rios;TI006;26,5;;3,4;6,98;Ausencia;Presencia;Ausencia;Ausencia;1200;800;180;6,6;0,59;;;6;0,39;49;121;0,005;0,001;0,009
+Rios;TI006;26,3;;3,18;6,79;Ausencia;Ausencia;Ausencia;Ausencia;200;120;550;3,2;0,1;;;10;0,19;51;195;0,005;0,001;0,009
+Rios;TI006;26,5;;3,47;7,04;Presencia;Presencia;Ausencia;Ausencia;3000;2500;200;3;0,62;;;10;0,37;50;49;0,005;0,001;0,009
+Rios;TI006;27;;3,52;6,95;Ausencia;Presencia;Ausencia;Ausencia;1900;1400;400;3;0,25;;;6;0,5;51;49;0,005;0,001;0,009
+Rios;TI006;26,9;;3,48;7,38;Ausencia;Ausencia;Ausencia;Ausencia;5000;1600;1000;3,5;1,87;;;8;0,29;44;49;0,005;0,001;0,009
+Rios;TI006;27,5;;4,38;7,16;Ausencia;Ausencia;Ausencia;Presencia;400;70;100;2,9;0,04;;;8;2,34;71;49;0,005;0,001;0,009
+Arroyos;TI009;26;;3,85;7,16;Ausencia;Ausencia;Ausencia;Ausencia;600;150;110;6,6;0,04;;;12;0,37;60;49;0,005;0,001;0,009
+Zona Norte;SF015;26,3;;4,25;4,46;Ausencia;Ausencia;Presencia;Presencia;4800;2200;9;4,8;0,57;;;12;0,68;54;49;0,005;0,001;0,009
+Zona Norte;SF015;28;;5,74;5,01;Ausencia;Ausencia;Ausencia;Ausencia;1800;300;9;3,9;0,43;;;8;0,25;50;49;0,005;0,001;0,009
+Zona Norte;SF015;28,8;;7,32;7,1;Ausencia;Ausencia;Ausencia;Ausencia;1200;900;9;5,1;0,17;;;6;0,62;64;49;0,005;0,001;0,009
+Zona Norte;SF015;28,4;;6,8;6,4;Ausencia;Ausencia;Ausencia;Ausencia;46000;29600;3200;6,3;0,7;;;7;1,42;41;72;0,005;0,001;0,009
+Zona Norte;SF015;25,2;;1,56;4,85;Presencia;Ausencia;Presencia;Presencia;200000;179500;15800;10;7,46;;;24;0,94;8;49;0,005;0,001;0,009
+Zona Norte;SF015;26,6;;7,5;7,63;Ausencia;Ausencia;Ausencia;Presencia;9000;7900;850;11,9;0,38;;;6;0,43;42;49;0,005;0,001;0,009
+Zona Norte;SF015;25,9;;6,3;7,4;Ausencia;Ausencia;Ausencia;Ausencia;34000;28100;800;9,8;0,34;;;6;0,19;49;49;0,005;0,001;0,009
+Zona Norte;SF015;25,5;;7,5;7,45;Ausencia;Ausencia;Ausencia;Presencia;18500;16600;950;10,6;0,16;;;6;1,29;50;225;0,005;0,001;0,009
+Zona Norte;CA041;27,4;;4,6;7,8;;;;;900;900;330;3;0,25;;;4;0,23;49;;0,01;0,001;0,009
+Zona Norte;CA044;26,2;;3,6;7,6;;;;;200;150;600;2;2,31;;;4;0,26;38;;0,01;0,001;0,009
+Zona Norte;CA046;27,3;;5,1;7,8;;;;;25000;25000;19000;2;2,44;;;4;0,29;163;;0,01;0,001;0,009
+Zona Norte;CA047;25,9;;4,7;8;;;;;52;52;31;2;0,25;;;4;0,16;61;;0,01;0,001;0,009
+Avellaneda;AV054;26,7;;;6;Ausencia;Ausencia;Ausencia;Ausencia;5000;4400;50;5,6;0,35;;;26;0,43;55;49;0,005;0,001;0,009
+Avellaneda;AV054;26,4;;;6,2;Ausencia;Ausencia;Ausencia;Ausencia;2600;2400;9;5,5;0,66;;;10;0,25;58;49;0,005;0,001;0,009
+Avellaneda;AV054;26,9;;;6,4;Ausencia;Ausencia;Ausencia;Ausencia;5200;4500;450;5,7;0,66;;;8;0,74;34;49;0,005;0,001;0,009
+Avellaneda;AV055;26,7;;;6,5;Ausencia;Ausencia;Ausencia;Ausencia;2700;2600;650;4,1;0,79;;;14;0,25;54;49;0,005;0,001;0,009
+Avellaneda;AV054;27;;;6,8;Ausencia;Ausencia;Ausencia;Ausencia;600;500;100;4,5;0,93;;;16;0,99;39;49;0,005;0,001;0,009
+Zona Norte;QU061;24;;6,81;7,29;Ausencia;Ausencia;Ausencia;Presencia;200;200;9;5,7;0,33;;;20;0,68;61;121;0,005;0,001;0,009
+Ensenada;EN084;24;;7,3;7,28;Ausencia;Ausencia;Ausencia;Presencia;600;240;9;6,9;0,37;;;14;0,42;79;195;0,005;0,001;0,009
+Ensenada;EN084;25;;5,99;7,26;Ausencia;Ausencia;Ausencia;Presencia;400;400;9;5,5;0,37;;;10;0,19;66;49;0,005;0,001;0,009
+Berazategui ;BZ078;25;;9,49;8,11;Presencia;Ausencia;Ausencia;Presencia;11000;4800;1050;5,5;0,61;;;28;0,42;35;49;0,005;0,001;0,018
+Berazategui ;BZ078;22,1;;9,18;8,07;Ausencia;Ausencia;Ausencia;Ausencia;2800;1400;1400;7,3;0,05;;;26;0,99;33;75;0,005;0,001;0,023
+Berazategui ;BZ078;22;;7,59;7,94;Ausencia;Ausencia;Ausencia;Ausencia;4000;1900;1300;5,4;0,04;;;22;1,42;31;49;0,005;0,001;0,023
+Ensenada;EN081;25,2;;6,51;8,23;Ausencia;Ausencia;Ausencia;Ausencia;800;450;50;5,4;0,23;;;4;0,56;41;49;0,005;0,001;0,011
+Ensenada;EN084;25,7;;5,8;7,99;Ausencia;Ausencia;Ausencia;Ausencia;1400;500;50;7;0,08;;;12;0,18;90;49;0,005;0,001;0,009
+Ensenada;EN083;25,5;;4,66;8,08;Ausencia;Ausencia;Ausencia;Ausencia;20000;19250;400;6;4,95;;;18;1,17;41;49;0,005;0,001;0,013
+Berisso;EN084;25,9;;4,23;7,93;Ausencia;Ausencia;Ausencia;Ausencia;7500;7000;500;8,1;0,05;;;10;0,25;39;49;0,005;0,001;0,009
+Berisso;BS092;20;;5,38;7,67;Ausencia;Ausencia;Presencia;Ausencia;14000;12900;1300;4,7;2,41;;;14;0,19;25;49;0,005;0,001;0,009
+Berisso;BS095;18;;5,03;8,11;Presencia;Presencia;Presencia;Presencia;16800;11000;1200;3;10,1;;;16;0,62;8;106;0,005;0,001;0,009
+Berisso;BS091;20;;7,77;7,87;Ausencia;Ausencia;Presencia;Ausencia;11200;8400;1900;5,5;0,47;;;4;0,99;46;49;0,005;0,001;0,01
+Berisso;BS095;20;;5,93;8,05;Ausencia;Ausencia;Ausencia;Ausencia;350;150;200;4,2;0,28;;;12;1,66;86;49;0,005;0,001;0,009
+Berisso;BS093;20;;7,02;7,65;Ausencia;Ausencia;Ausencia;Ausencia;1000;950;850;3,6;0,09;;;7;0,25;36;49;0,005;0,001;0,009
+Canales;TI001;16;;6,5;7,43;Ausencia;Ausencia;Ausencia;Presencia;300;300;30;4;0,07;;;4;1,3;74;150;0,005;0,001;0,009
+Canales;TI001;16,4;;5,2;7,16;Ausencia;Ausencia;Ausencia;Ausencia;400;400;70;3;0,17;;;6;1,8;69;49;0,005;0,001;0,009
+Rios;TI006;16;;0,2;7,43;Ausencia;Presencia;Ausencia;Presencia;3900;3800;950;2,6;2,62;;;8;0,52;45;140;0,005;0,001;0,009
+Rios;TI006;16,8;;6,8;7,2;Ausencia;Ausencia;Ausencia;Ausencia;500;500;350;2,6;0,25;;;6;0,49;74;49;0,005;0,001;0,009
+Rios;TI006;16,8;;6,1;7,31;Ausencia;Ausencia;Ausencia;Presencia;1400;1300;700;2,6;0,73;;;10;1,37;66;70;0,005;0,001;0,009
+Rios;TI006;16,5;;5,6;7,74;Ausencia;Presencia;Ausencia;Presencia;36000;33400;12900;4,5;9,5;;;10;0,8;29;130;0,005;0,001;0,009
+Rios;TI006;16,5;;6,3;7,37;Ausencia;Ausencia;Ausencia;Presencia;14400;9600;1800;2,5;1;;;8;0,26;62;90;0,005;0,001;0,009
+Rios;TI006;17,8;;8;7,43;Ausencia;Ausencia;Ausencia;Ausencia;250;250;40;2,7;0;;;11;0,7;89;110;0,005;0,001;0,009
+Arroyos;TI009;16,5;;7,3;7,2;Ausencia;Ausencia;Ausencia;Ausencia;600;400;200;2,2;0;;;6;0,59;90;190;0,005;0,001;0,009
+Zona Norte;SF015;14;;4,2;7,52;Ausencia;Ausencia;Ausencia;Ausencia;26000;19000;5950;4,6;2,3;;;11;0,39;51;49;0,005;0,001;0,009
+Zona Norte;SF015;;;;;;;;;;;;;;;;;;;;;;
+Zona Norte;SF015;17,5;;7,1;7,73;Ausencia;Ausencia;Ausencia;Ausencia;4400;4400;950;4,3;0,65;;;4;0,62;60;49;0,005;0,001;0,009
+Zona Norte;SF015;16;;8,6;7,88;Ausencia;Ausencia;Ausencia;Ausencia;3600;2400;200;8,7;0,35;;;8;0,6;82;49;0,005;0,001;0,009
+Zona Norte;SF015;19,7;;4,7;7,72;Ausencia;Ausencia;Ausencia;Ausencia;13000;9600;4600;23,1;1,19;;;8;0,6;6;49;0,005;0,001;0,009
+Zona Norte;SF015;17,7;;8,3;7,6;Ausencia;Ausencia;Ausencia;Ausencia;34600;24300;5000;23;1,28;;;10;0,25;83;49;0,005;0,001;0,009
+Zona Norte;SF015;;;;;;;;;;;;;;;;;;;;;;
+Zona Norte;SF015;16,2;;8,7;8,08;Ausencia;Ausencia;Ausencia;Presencia;8800;7400;2800;11,8;0,05;;;18;0,34;10;49;0,005;0,001;0,009
+Zona Norte;CA041;16,3;;6,2;7,8;;;;;12000;10000;500;9;1,54;;;4;0,28;132;;0,019;0,001;0,009
+Zona Norte;CA044;16,7;;5,1;7,7;;;;;22000;18000;5500;9;2,19;;;4;0,3;120;;0,019;0,001;0,009
+Zona Norte;CA046;20,1;;6,4;8,1;;;;;4000;4000;450;9;1,41;;;4;0,26;153;;0,019;0,001;0,009
+Zona Norte;CA047;17,1;;6,8;8;;;;;1400;1400;80;9;0,6;;;4;0,21;10;;0,019;0,001;0,009
+Avellaneda;AV054;18,2;;5,8;7,51;Ausencia;Ausencia;Ausencia;Ausencia;15800;14200;4250;4,3;1,44;;;10;1;85;49;0,005;0,001;0,009
+Avellaneda;AV054;17,6;;4,7;7,53;Ausencia;Ausencia;Ausencia;Ausencia;17200;14500;4250;4;1,21;;;8;0,75;94;59;0,005;0,001;0,009
+Avellaneda;AV054;18,5;;6,4;7,77;Ausencia;Ausencia;Ausencia;Ausencia;2200;2200;700;4,5;1,54;;;10;0,98;67;49;0,005;0,001;0,009
+Avellaneda;AV055;17,7;;5,2;7,57;Ausencia;Ausencia;Ausencia;Ausencia;205000;202500;7300;2,4;1,93;;;13;0,73;51;49;0,005;0,001;0,009
+Avellaneda;AV054;17,6;;0,3;7,45;Ausencia;Ausencia;Ausencia;Ausencia;75000;6600;6950;3;2,34;;;12;0,96;44;49;0,005;0,001;0,009
+Zona Norte;QU061;14;;6,5;7,3;Ausencia;Ausencia;Ausencia;Ausencia;21000;18800;3150;3,5;2,21;;;10;0,63;53;49;0,005;0,001;0,009
+Ensenada;EN084;15;;8,3;;Ausencia;Ausencia;Ausencia;Ausencia;4600;3400;50;4;1;;;10;0,75;84;49;0,005;0,001;0,009
+Ensenada;EN084;15;;9,3;7,04;Ausencia;Ausencia;Ausencia;Presencia;4000;3100;150;5,9;0,78;;;8;0,4;99;49;0,005;0,001;0,009
+Berazategui ;BZ078;16,9;;12,4;8,52;Presencia;Ausencia;Ausencia;Ausencia;3600;3500;300;8,3;0,76;;;20;0,59;85;49;0,005;0,001;0,009
+Berazategui ;BZ078;16,4;;9,8;7,85;Ausencia;Ausencia;Ausencia;Ausencia;2900;2700;650;6;0,43;;;20;0,65;45;49;0,005;0,001;0
+Berazategui ;BZ078;14,2;;10,7;7,53;Ausencia;Ausencia;Ausencia;Ausencia;900;600;350;7,8;0,1;;;18;0,55;67;49;0,005;0,001;0
+Ensenada;EN081;16,7;;9,8;8,34;Ausencia;Ausencia;Ausencia;Ausencia;400;100;9;8,6;0,22;;;14;0,41;100;49;0,005;0,001;0,009
+Ensenada;EN084;16,7;;8,4;8,13;Ausencia;Ausencia;Ausencia;Ausencia;150;150;10;8,9;0,04;;;18;0,6;97;49;0,005;0,001;0,009
+Ensenada;EN083;15,6;;1,5;7,86;Ausencia;Ausencia;Ausencia;Ausencia;163500;151500;9000;2,7;8,5;;;32;0,87;53;49;0,005;0,001;0,009
+Ensenada;EN084;16,3;;4,5;7,74;Ausencia;Ausencia;Ausencia;Ausencia;1700;1600;300;11,8;0,2;;;22;0,17;56;49;0,005;0,001;0,009
+Berisso;BS092;10;;6,8;7,62;Ausencia;Ausencia;Ausencia;Ausencia;20900;19200;5800;4,6;2,6;;;10;0,57;31;49;0,005;0,001;0
+Berisso;BS095;10;;8,3;8,08;Presencia;Presencia;Presencia;Ausencia;119000;116000;18600;4,8;4,17;;;8;0,61;65;49;0,005;0,001;0,009
+Berisso;BS091;10;;10;8,51;Ausencia;Ausencia;Ausencia;Ausencia;2800;2500;550;6,5;0,97;;;10;0,43;87;49;0,005;0,001;0
+Berisso;BS095;10;;9,7;8,31;Ausencia;Presencia;Ausencia;Presencia;1200;800;500;5,7;0,17;;;10;0,4;96;49;0,005;0,001;0
+Berisso;BS093;10;;8,5;7,73;Ausencia;Ausencia;Ausencia;Ausencia;250;250;10;3,7;0,21;;;12;0,4;41;49;0,005;0,001;0,009
+Canales;TI001;22;;6,68;8,04;;;;;2300;300;2300;2,9;0,15;;;;35;;;;;
+Canales;TI001;22;;2,99;8,23;;;;;46000;700;46000;12;8,6;;;;124;;;;;
+Rios;TI006;21;;4,95;7,82;;;;;900;900;900;2,9;0,62;;;;34;;;;;
+Rios;TI006;21;;4,54;8,07;;;;;46000;400;15000;9,2;4,77;;;;37;;;;;
+Rios;TI006;22;;8,33;8,21;;;;;110000;4300;110000;13,2;5,8;;;;59;;;;;
+Rios;TI006;20;;6,13;7,91;;;;;2300;400;2300;7,5;0,14;;;;32;;;;;
+Rios;TI006;22;;3,12;8,13;;;;;4300;300;4300;2,6;8,99;;;;39;;;;;
+Rios;TI006;20;;7,48;8,3;;;;;900;400;900;2,2;0,03;;;;20;;;;;
+Arroyos;TI009;20;;6,44;7,89;;;;;1500;300;1500;1,5;0,17;;;;38;;;;;
+Costaneras;VL031;22;22;4,65;7,44;;;;;46000;300;24000;6,4;1,29;;;;35;;;;;
+Ensenada;EN084;21,3;22;8,26;7,76;;;;;2300;300;900;5,9;0,31;;;;31;;;;;
+Reservas y Puertos;SI022;21,5;23;6,83;7,49;;;;;2300;400;400;9,7;0,41;;;;33;;;;;
+Ensenada;EN084;21,6;22;2,42;7,53;;;;;2300;300;2300;15,5;1,54;;;;43;;;;;
+Ensenada;EN084;22;24;8,04;7,85;;;;;46000;300;24000;13,1;8,93;;;;34;;;;;
+Costaneras;VL031;21,1;;7;7,8;;;;;240000;300;46000;9,6;0,77;;;;40;;;;;
+Reservas y Puertos;SI022;21,1;;6,5;7,61;;;;;9300;2100;9300;11,2;0,53;;;;90;;;;;
+Reservas y Puertos;SI022;27,2;;3,08;7,13;;;;;200000;42000;42000;3;0,8;;;;71;;;;;
+Ensenada;EN084;26,1;;3,56;7,12;;;;;150000;15000;25000;3;0,9;;;;25;;;;;
+Ensenada;EN084;27,2;;3,89;7,07;;;;;140000;19000;50000;4;1;;;;30;;;;;
+Reservas y Puertos;SI022;26,8;;3,73;7,15;;;;;400000;35000;35000;5;0,5;;;;36;;;;;
+Reservas y Puertos;SI022;28,3;;4,12;7,65;;;;;40000;4000;13000;4;0,3;;;;53;;;;;
+Playas;BS091;22,7;;9,72;7,25;;;;;4300;300;4300;4,5;9,74;;;;37;;;;;
+Arroyos;TI009;22,7;;3,82;7,28;;;;;110000;400;110000;5,7;1,9;;;;34;;;;;
+Arroyos;TI009;22,1;;4,12;7,3;;;;;9300;300;9300;8,3;0,91;;;;30;;;;;
+Reservas y Puertos;SI022;23,8;;3,75;7,35;;;;;4300;700;4300;13,7;5,92;;;;60;;;;;
+Costaneras;VL031;21,9;;4,2;7,18;;;;;400;300;400;30;1,01;;;;31;;;;;
+Berisso;BS095;15,6;21;6,78;5,84;;;;;400;400;400;19,2;0,47;;;;72;;;;;
+Reservas y Puertos;SI022;15,6;21;6,78;5,86;;;;;400;400;400;8,6;0,45;;;;35;;;;;
+Ensenada;EN084;15,5;21;6,82;5,87;;;;;900;300;900;10,8;0,61;;;;34;;;;;
+Reservas y Puertos;SI022;21,1;22;8,7;;;;;;300;300;300;9,7;0,53;;;;45;;;;;
+Balnearios;BS092;21,9;23;9,1;;;;;;900;300;900;10,3;0,13;;;;40;;;;;
+Reservas y Puertos;SI022;20,6;;9,15;8,32;;;;;9300;300;300;11,8;1,23;;;;32;;;;;
+Zona Norte;SF015;21,2;;6,63;7,79;;;;;300;300;300;11,4;1,25;;;;32;;;;;
+Arroyos;TI009;21,6;;0,51;7,74;;;;;24000;300;9300;0,2;12,14;;;;47;;;;;
+Reservas y Puertos;SI022;20,7;;7,16;7,86;;;;;300;300;300;13,8;0,2;;;;26;;;;;
+Balnearios;BS092;21,2;25;8,5;8,03;;;;;300;300;300;0,2;0,04;;;;42;;;;;
+Balnearios;BS092;20,9;25;8,52;7,99;;;;;110000;300;4300;7,1;0,05;;;;45;;;;;
+Berisso;BS095;21,6;25;5,73;7,7;;;;;300;300;300;3,8;9,43;;;;38;;;;;
+Canales;TI001;;;;;;;;;230;900;3200;0,7;0,06;;;;34;;;;;
+Canales;TI001;;;;;;;;;400;4500;11000;0,8;0,35;;;;43;;;;;
+Rios;TI006;;;;;;;;;1200;1000;3400;0,6;0,21;;;;31;;;;;
+Rios;TI006;;;;;;;;;980;1800;8000;0,7;0,39;;;;34;;;;;
+Rios;TI006;;;;;;;;;1100;7000;9000;0,7;0,36;;;;40;;;;;
+Rios;TI006;;;;;;;;;300;2000;5600;0,7;0,35;;;;44;;;;;
+Rios;TI006;;;;;;;;;310;6600;8200;0,8;0,39;;;;34;;;;;
+Rios;TI006;;;;;;;;;1350;5200;8000;0,6;0,37;;;;37;;;;;
+Arroyos;TI009;;;;;;;;;130;2100;5200;0,8;0,21;;;;23;;;;;
+Zona Norte;SF015;;;;;;;;;;;;;;;;;;;;;;
+Zona Norte;SF015;;;;;;;;;310;1200;2000;1,1;0,49;;;;37;;;;;
+Zona Norte;SF015;;;;;;;;;190;800;2600;1,3;0,18;;;;20;;;;;
+Zona Norte;SF015;;;;;;;;;3600;30000;124000;9,7;0,89;;;;34;;;;;
+Zona Norte;SF015;;;;;;;;;540;3700;10600;2;0,22;;;;37;;;;;
+Zona Norte;SF015;;;;;;;;;920;3600;20800;0,95;0,26;;;;56;;;;;
+Zona Norte;SF015;;;;;;;;;1560;15000;32800;1,3;0,43;;;;28;;;;;
+Zona Norte;SF015;;;;;;;;;1900;9400;36200;1,5;0,3;;;;23;;;;;
+Avellaneda;AV054;;;;;;;;;270;600;1000;0,6;0,49;;;;40;;;;;
+Avellaneda;AV054;;;;;;;;;590;700;800;1,3;0,52;;;;31;;;;;
+Avellaneda;AV054;;;;;;;;;570;400;3800;0,8;0,45;;;;34;;;;;
+Avellaneda;AV054;;;;;;;;;810;1400;5600;1;0,5;;;;37;;;;;
+Avellaneda;AV054;;;;;;;;;320;400;12000;0,9;0,5;;;;48;;;;;
+Quilmes;QU061;;;;;;;;;650;2500;7000;0,8;0,32;;;;31;;;;;
+Quilmes;QU061;;;;;;;;;510;1500;2100;0,7;0,35;;;;45;;;;;
+Quilmes;QU061;;;;;;;;;210;500;3400;0,7;0,34;;;;34;;;;;
+Ensenada;EN084;;;;;;;;;60;200;400;3,5;0,05;;;;70;;;;;
+Ensenada;EN084;;;;;;;;;50;100;100;2,6;0,1;;;;12;;;;;
+Ensenada;EN084;;;;;;;;;170;200;600;1,6;0,05;;;;10;;;;;
+Ensenada;EN084;;;;;;;;;850;100;100;1,4;0,05;;;;12;;;;;
+Berazategui ;BZ078;;;;;;;;;160;100;100;3,1;0,05;;;;15;;;;;
+Berazategui ;BZ078;;;;;;;;;2600;30000;82400;0,7;0,56;;;;98;;;;;
+Berazategui ;BZ078;;;;;;;;;2000;800;1000;2,4;0,26;;;;38;;;;;
+Berisso;BS095;;;;;;;;;350;200;1400;1,6;0,05;;;;43;;;;;
+Berisso;BS095;;;;;;;;;;;;;;;;;;;;;;
+Berisso;BS095;;;;;;;;;750;300;3400;2;0,05;;;;92;;;;;
+Canales;TI001;;;;;;;;;400;300;500;0,85;0,05;;;;25;;;;;
+Canales;TI001;;;;;;;;;440;100;200;1;0,09;;;;10;;;;;
+Rios;TI006;;;;;;;;;300;100;200;1;0,05;;;;18;;;;;
+Rios;TI006;;;;;;;;;2800;4000;6000;1;0,22;;;;48;;;;;
+Rios;TI006;;;;;;;;;2400;7000;7500;1;0,57;;;;60;;;;;
+Rios;TI006;;;;;;;;;2000;300;4000;1,1;0,05;;;;14;;;;;
+Rios;TI006;;;;;;;;;480;700;1000;1,1;0,21;;;;10;;;;;
+Rios;TI006;;;;;;;;;640;100;200;1;0,05;;;;14;;;;;
+Arroyos;TI009;;;;;;;;;1000;100;1000;1;0,05;;;;71;;;;;
+Zona Norte;SF015;;;;;;;;;1200;200;2000;1,3;0,2;;;;10;;;;;
+Zona Norte;SF015;;;;;;;;;110;100;200;1,2;0,17;;;;14;;;;;
+Zona Norte;SF015;;;;;;;;;630;100;1000;1,1;0,18;;;;10;;;;;
+Zona Norte;SF015;;;;;;;;;300;700;2500;1;1,06;;;;60;;;;;
+Zona Norte;SF015;;;;;;;;;1400;100;15000;2,4;0,19;;;;10;;;;;
+Zona Norte;SF015;;;;;;;;;1500;4700;5000;2,9;0,2;;;;33;;;;;
+Zona Norte;SF015;;;;;;;;;750;1900;2000;1,8;0,19;;;;37;;;;;
+Zona Norte;SF015;;;;;;;;;280;2100;2500;2;0,16;;;;37;;;;;
+Avellaneda;AV054;;;;;;;;;3600;1800;12000;3,6;0,63;;;;67;;;;;
+Avellaneda;AV054;;;;;;;;;6000;7000;50000;1,1;0,76;;;;33;;;;;
+Avellaneda;AV054;;;;;;;;;4200;600;7000;1,1;0,76;;;;48;;;;;
+Avellaneda;AV054;;;;;;;;;3200;2300;40000;1,3;0,51;;;;44;;;;;
+Avellaneda;AV054;;;;;;;;;500;2200;3500;1,1;0,77;;;;125;;;;;
+Quilmes;QU061;;;;;;;;;300;1000;2500;1,7;0,49;;;;67;;;;;
+Quilmes;QU061;;;;;;;;;1500;1300;5000;1,5;0,56;;;;75;;;;;
+Quilmes;QU061;;;;;;;;;400;600;5000;1,5;0,48;;;;52;;;;;
+Ensenada;EN084;;;;;;;;;440;500;3000;2,3;0,1;;;;14;;;;;
+Ensenada;EN084;;;;;;;;;180;100;500;2,2;0,27;;;;18;;;;;
+Ensenada;EN084;;;;;;;;;360;100;1000;1,7;0,73;;;;52;;;;;
+Ensenada;EN084;;;;;;;;;360;400;1500;1,5;0,48;;;;44;;;;;
+Berazategui ;BZ078;;;;7,28;;;;;240;100;500;3,2;0,07;;;;21;;;;;
+Berazategui ;BZ078;;;;7,8;;;;;2400;600;1500;3,6;0,74;;;;129;;;;;
+Berazategui ;BZ078;;;;7,3;;;;;380;500;1500;2,2;0,24;;;;25;;;;;
+Berisso;BS095;;;;;;;;;370;100;1000;1;0,05;;;;52;;;;;
+Berisso;BS095;;;;;;;;;2800;20000;25000;3;1,34;;;;87;;;;;
+Berisso;BS095;;;;;;;;;110;300;400;1,7;0,72;;;;71;;;;;
+Canales;TI001;;;;;;;;;8;1,9;6300;2215;0,91;;;;17;;;;;
+Canales;TI001;;;;;;;;;6;2,1;2100;2215;3,1;;;;21;;;;;
+Rios;TI006;;;;;;;;;17;3;8000;3101;0,9;;;;21;;;;;
+Rios;TI006;;;;;;;;;30;3,7;4000;2658;0,47;;;;13;;;;;
+Rios;TI006;;;;;;;;;45;12,7;42000;1772;4,64;;;;63;;;;;
+Rios;TI006;;;;;;;;;7;200;6000;2658;0,08;;;;10;;;;;
+Rios;TI006;;;;;;;;;8;1,4;1800;2658;2,45;;;;17;;;;;
+Rios;TI006;;;;;;;;;7;2;2500;2215;0,85;;;;25;;;;;
+Arroyos;TI009;;;;;;;;;4;1,3;1400;2658;1,04;;;;33;;;;;
+Zona Norte;SF015;;;;;;;;;36;1,3;8000;3101;0,67;;;;17;;;;;
+Zona Norte;SF015;;;;;;;;;25;700;5000;5759;0,77;;;;42;;;;;
+Zona Norte;SF015;;;;;;;;;35;14;30000;26137;2,72;;;;104;;;;;
+Zona Norte;SF015;;;;;;;;;60;1,7;40000;11961;0,08;;;;17;;;;;
+Zona Norte;SF015;;;;;;;;;18;1,9;2000;14176;0,08;;;;33;;;;;
+Zona Norte;SF015;;;;;;;;;18;800;1600;8417;0,58;;;;42;;;;;
+Zona Norte;SF015;;;;;;;;;10;9,2;10000;15505;0,92;;;;100;;;;;
+Avellaneda;AV054;;;;;;;;;18,5;8;16500;3987;0,95;;;;75;;;;;
+Avellaneda;AV054;;;;;;;;;5;1,6;3000;24365;2,72;;;;96;;;;;
+Avellaneda;AV054;;;;;;;;;4;3,8;4000;1772;2,84;;;;88;;;;;
+Avellaneda;AV054;;;;;;;;;60;1;14000;2658;2,56;;;;108;;;;;
+Avellaneda;AV054;;;;;;;;;10;100;2500;19935;2,28;;;;42;;;;;
+Quilmes;QU061;;;;;;;;;9000;300;1800;5759;0,97;;;;67;;;;;
+Quilmes;QU061;;;;;;;;;4000;600;1400;5316;0,9;;;;33;;;;;
+Quilmes;QU061;;;;;;;;;5000;1,7;3000;8,86;0,75;;;;21;;;;;
+Ensenada;EN084;;;;;;;;;14000;1,6;4000;7531;0,05;;;;21;;;;;
+Ensenada;EN084;;;;;;;;;6000;100;1600;8,86;0,05;;;;29;;;;;
+Ensenada;EN084;;;;;;;;;25000;9,1;21000;3544;10,2;;;;112;;;;;
+Ensenada;EN084;;;;;;;;;28000;400;8500;8417;0,05;;;;10;;;;;
+Berazategui ;BZ078;;;;;;;;;4600;400;1000;10189;0,05;;;;33;;;;;
+Berazategui ;BZ078;;;;;;;;;20000;1;18000;10189;1,65;;;;58;;;;;
+Berazategui ;BZ078;;;;;;;;;4700;100;1000;7531;0,05;;;;46;;;;;
+Berisso;BS095;;;;;;;;;7000;100;2000;4,43;0,05;;;;42;;;;;
+Berisso;BS095;;;;;;;;;28000;10;25000;3987;12,2;;;;142;;;;;
+Berisso;BS095;;;;;;;;;15000;400;12000;4,43;0,14;;;;63;;;;;
+Canales;TI001;;;;;;;;;20;600;15000;3,99;0,05;;;;20;;;;;
+Canales;TI001;;;;;;;;;70;700;10000;4,43;0,12;;;;47;;;;;
+Rios;TI006;;;;;;;;;40;400;10000;3,99;0,05;;;;47;;;;;
+Rios;TI006;;;;;;;;;165;4200;4500;9,3;0,54;;;;32;;;;;
+Rios;TI006;;;;;;;;;360;30;36000;18,61;2,38;;;;81;;;;;
+Rios;TI006;;;;;;;;;120;200;23000;5,32;0,05;;;;32;;;;;
+Rios;TI006;;;;;;;;;420;30;35000;15,06;0,82;;;;70;;;;;
+Rios;TI006;;;;;;;;;56;100;7000;6,2;0,05;;;;66;;;;;
+Arroyos;TI009;;;;;;;;;40;100;10000;5,76;0,05;;;;32;;;;;
+Zona Norte;SF015;;;;;;;;;82;3;35000;;0,33;;;;35;;;;;
+Zona Norte;SF015;;;;;;;;;23;400;400;7,09;0,2;;;;10;;;;;
+Zona Norte;SF015;;;;;;;;;20;2,6;2600;7,09;0,12;;;;32;;;;;
+Zona Norte;SF015;;;;;;;;;42;6,6;40000;15,06;0,38;;;;24;;;;;
+Zona Norte;SF015;;;;;;;;;62;500;28000;7,97;0,05;;;;24;;;;;
+Zona Norte;SF015;;;;;;;;;41;6,1;16000;9,3;0,16;;;;20;;;;;
+Zona Norte;SF015;;;;;;;;;70;9;22000;10,19;0,19;;;;20;;;;;
+Zona Norte;SF015;;;;;;;;;23;4;15000;14,18;0,23;;;;24;;;;;
+Avellaneda;AV054;;;;;;;;;22;900;1000;8,86;0,33;;;;24;;;;;
+Avellaneda;AV054;;;;;;;;;11;1,1;1400;9,3;0,32;;;;119;;;;;
+Avellaneda;AV054;;;;;;;;;48;3,2;3800;8,86;0,62;;;;28;;;;;
+Avellaneda;AV054;;;;;;;;;26;1,1;15000;9,3;0,32;;;;146;;;;;
+Avellaneda;AV054;;;;;;;;;18;3,5;5000;11,08;0,56;;;;47;;;;;
+Quilmes;QU061;;;;;;;;;46000;2900;21000;7,97;0,21;;;;74;;;;;
+Quilmes;QU061;;;;;;;;;120000;11700;20000;7,97;0,4;;;;12;;;;;
+Quilmes;QU061;;;;;;;;;60000;3000;18000;8,86;0,35;;;;32;;;;;
+Ensenada;EN084;;;;;;;;;19000;2300;14000;10,19;0,05;;;;28;;;;;
+Ensenada;EN084;;;;;;;;;68000;1100;14000;9,75;0,05;;;;13;;;;;
+Ensenada;EN084;;;;;;;;;135000;5100;36000;12,4;0,78;;;;70;;;;;
+Ensenada;EN084;;;;;;;;;10000;500;4000;9,75;0,05;;;;10;;;;;
+Berazategui ;BZ078;;;;;;;;;100000;500;2000;14,62;0,11;;;;10;;;;;
+Berazategui ;BZ078;;;;;;;;;7000;1400;1500;12,4;0,06;;;;16;;;;;
+Berazategui ;BZ078;;;;;;;;;12000;100;3000;12,85;0,07;;;;42;;;;;
+Berisso;BS095;;;;;;;;;24000;1400;6000;8,42;0,43;;;;10;;;;;
+Berisso;BS095;;;;;;;;;26000;100;2000;13,73;0,05;;;;28;;;;;
+Canales;TI001;24;;3,68;7,41;;;;;300;300;300;6,47;0,2;;;;39;;;;;
+Canales;TI001;22;;3,82;7,79;;;;;110000;400;110000;9,9;0,8;;;;46;;;;;
+Rios;TI006;25;;3,89;7,6;;;;;24000;900;4800;7,24;0,47;;;;34;;;;;
+Rios;TI006;25;;3,96;7,64;;;;;46000;300;2800;7,49;0,55;;;;38;;;;;
+Rios;TI006;23;;4,05;7,74;;;;;110000;700;21000;9,98;0,59;;;;41;;;;;
+Rios;TI006;25;;3,57;7,66;;;;;46000;300;400;8,08;0,36;;;;41;;;;;
+Rios;TI006;22;;3,54;7,66;;;;;24000;700;9300;8,02;0,54;;;;37;;;;;
+Rios;TI006;26;;6,04;7,63;;;;;400;300;300;4,5;0,16;;;;24;;;;;
+Arroyos;TI009;25;;5,82;7,58;;;;;400;300;400;4,69;0,77;;;;30;;;;;
+Costaneras;VL031;24;25;3,96;7,57;;;;;24000;9300;9300;7,08;0,42;;;;520;;;;;
+Ensenada;EN084;24,3;23;8,03;7,41;;;;;9300;900;2300;6,68;0,32;;;;34;;;;;
+Reservas y Puertos;SI022;24,2;25;5,55;7,78;;;;;9300;900;9300;7,61;0,29;;;;31;;;;;
+Ensenada;EN084;24;27;2,79;7,83;;;;;24000;300;24000;16,6;0,99;;;;23;;;;;
+Ensenada;EN084;24,7;27;7,26;8,15;;;;;46000;300;46000;8,11;0,22;;;;30;;;;;
+Costaneras;VL031;24,1;;4,6;7,34;;;;;110000;300;2800;7,97;0,62;;;;33;;;;;
+Reservas y Puertos;SI022;24,4;;4,4;7,32;;;;;46000;300;46000;8,08;0,64;;;;37;;;;;
+Playas;BS091;24,2;;5,88;7,43;;;;;;;;6,17;0,52;;;;48,7;;;;;
+Arroyos;TI009;24,7;;5,94;7,3;;;;;;;;6,79;0,52;;;;46,2;;;;;
+Arroyos;TI009;24,1;;5,46;7,39;;;;;;;;6,89;0,6;;;;50;;;;;
+Reservas y Puertos;SI022;26,2;;2,01;7,3;;;;;;;;6,67;0,69;;;;82,5;;;;;
+Costaneras;VL031;23,5;;5,97;7,42;;;;;;;;7,78;0,54;;;;45;;;;;
+Reservas y Puertos;SI022;25,2;22;;;;;;;1500;300;700;9,69;1;;;;38;;;;;
+Balnearios;BS092;23,3;19;;;;;;;700;300;700;10,3;0,35;;;;42;;;;;
+Reservas y Puertos;SI022;23,5;20;7,36;7,88;;;;;4800;400;1500;9,23;0,61;;;;29;;;;;
+TOMA DE AGUA;EN082;24,1;20;4,95;7,41;;;;;400;300;400;8,88;0,12;;;;33;;;;;
+Arroyos;TI009;24,1;20;1,29;7,53;;;;;24000;1100;24000;6,15;2;;;;35;;;;;
+Reservas y Puertos;SI022;22,6;20;4,85;7,38;;;;;2300;900;900;7,94;0,39;;;;25;;;;;
+Balnearios;BS092;22,3;19;5,85;7,42;;;;;400;300;400;10,66;0,1;;;;39;;;;;
+Balnearios;BS092;21,3;19;8,04;8,08;;;;;2300;300;900;8,96;0,1;;;;64;;;;;
+Berisso;BS095;26,5;19;3,07;7,32;;;;;110000;1500;46000;8,53;0,8;;;;63;;;;;
+Canales;TI001;16;;8,49;7,45;;;;;2300;300;300;1,5;0,3;;;;35;;;;;
+Canales;TI001;16;;8,47;7,43;;;;;1500;300;300;1,5;2;;;;28;;;;;
+Rios;TI006;15;;8,05;7,48;;;;;4800;300;900;10;1;;;;27;;;;;
+Rios;TI006;15;;8,41;7,53;;;;;9300;300;300;64;1,25;;;;28;;;;;
+Rios;TI006;12;;8,58;6,92;;;;;4800;300;300;4,5;1,25;;;;29;;;;;
+Rios;TI006;16,2;;8,02;7,45;;;;;15000;300;300;17;1,3;;;;20;;;;;
+Rios;TI006;14;;8,05;7,51;;;;;4800;300;400;41;1,6;;;;22;;;;;
+Rios;TI006;16;;8,89;7,42;;;;;900;300;300;1,8;0,2;;;;17;;;;;
+Arroyos;TI009;14,08;;8,75;7,42;;;;;900;300;300;13;0,2;;;;22;;;;;
+Costaneras;VL031;15;7;8,19;7,77;;;;;24000;300;700;9;0,9;;;;22;;;;;
+Ensenada;EN084;13,2;13;9,18;7,82;;;;;24000;400;400;3,5;1,1;;;;23;;;;;
+Reservas y Puertos;SI022;13;13;8,81;7,91;;;;;46000;300;300;9,5;1,4;;;;27;;;;;
+Ensenada;EN084;13;17;3,6;7,84;;;;;15000;700;700;25;4,1;;;;20;;;;;
+Ensenada;EN084;13;15;8,97;7,89;;;;;12000;300;300;2,5;1;;;;28;;;;;
+Costaneras;VL031;13,1;;8,8;7,54;;;;;2800;300;300;26;0,7;;;;30;;;;;
+Reservas y Puertos;SI022;13,1;;7,6;7,54;;;;;46000;300;300;19;1,3;;;;26;;;;;
+Playas;BS091;14,7;;7,49;7,9;;;;;15000;2300;9300;3,5;8;;;;30;;;;;
+Arroyos;TI009;14,9;;6,36;7,8;;;;;110000;1500;24000;23;5;;;;28;;;;;
+Arroyos;TI009;14,5;13;5,77;7,8;;;;;21000;900;9300;2;4;;;;23;;;;;
+Reservas y Puertos;SI022;14,6;15;8,15;7,9;;;;;110000;900;9300;5,5;3;;;;36;;;;;
+Costaneras;VL031;14,6;;5,72;7,7;;;;;110000;700;110000;17;3,8;;;;28;;;;;
+Reservas y Puertos;SI022;12,5;7;9,4;;;;;;9300;900;4800;3,5;1,5;;;;32;;;;;
+Balnearios;BS092;11,3;7;9,2;;;;;;46000;300;4800;16;0,9;;;;41;;;;;
+Reservas y Puertos;SI022;11,3;5;9,59;7,85;;;;;110000;300;4800;4;3;;;;27;;;;;
+TOMA DE AGUA;EN082;11,9;5;9,26;7,73;;;;;21000;300;900;8;2,5;;;;24;;;;;
+Arroyos;TI009;13,5;5;7,42;1,09;;;;;24000;900;24000;5;6,2;;;;35;;;;;
+Reservas y Puertos;SI022;13,1;5;9,27;7,78;;;;;2100;300;900;16;1;;;;23;;;;;
+Balnearios;BS092;11,21;4;9,9;7,58;;;;;2000;400;900;3;0,6;;;;83;;;;;
+Balnearios;BS092;9;4;9,66;7,82;;;;;21000;400;900;9;3,2;;;;32;;;;;
+Berisso;BS095;9;4;5,67;6,71;;;;;15000;2300;2300;;7;;;;;;;;;
+Canales;TI001;;;;;;;;;2400;790;2400;;;;;;70;;;;;
+Canales;TI001;;;;;;;;;17200;2400;2400;;;;;;66;;;;;
+Rios;TI006;;;;;;;;;;;;;;;;;65;;;;;
+Rios;TI006;;;;;;;;;16900;9200;9200;;;;;;;;;;;
+Rios;TI006;;;;;;;;;34800;17200;34800;;;;;;;;;;;
+Rios;TI006;;;;;;;;;160900;160900;160900;;;;;;;;;;;
+Costaneras;VL031;16;;;;;;;;17200;17200;17200;8;0,116;;;;72;;;;;
+Ensenada;EN084;22,9;;7,96;7,8;;;;;24000;24000;24000;;;;;;70;;;;;
+Playas;BS091;22,4;;7,39;7,7;;;;;24000;9200;9200;8,8;0,128;;;;72;;;;;
+Ensenada;EN084;21,3;;1,05;7;;;;;2400000;2400000;2400000;;;;;;84;;;;;
+Playas;BS091;22,5;;7,42;7,8;;;;;109000;34800;34800;;;;;;77;;;;;
+Costaneras;VL031;21,7;;8,2;8;;;;;54200;24000;24000;16,5;0,192;;;;75;;;;;
+Reservas y Puertos;SI022;21,8;;7,1;7,8;;;;;17200;9200;9200;15,2;0,202;;;;69;;;;;
+Reservas y Puertos;SI022;22,2;;7,5;7,9;;;;;91800;3500;16000;14,1;0,092;;;;72;;;;;
+Reservas y Puertos;SI022;25,2;;5,27;7,37;;;;;200000;8100;10000;5;0,6;;;;88;;;;;
+Ensenada;EN084;24,1;;5,23;7,32;;;;;1000000;16000;19000;5;1,6;;;;99;;;;;
+Ensenada;EN084;23,9;;5,72;7,27;;;;;60000;3000;3800;5;3,1;;;;87;;;;;
+Reservas y Puertos;SI022;25,4;;5,26;7,27;;;;;130000;14000;19000;6;2,6;;;;134;;;;;
+Reservas y Puertos;SI022;25,6;;6,06;7,59;;;;;50000;2300;3100;5;1,1;;;;93;;;;;
+Playas;BS091;23;;5,74;7,6;;;;;230000;;;13,3;1,174;;;;63;;;;;
+Arroyos;TI009;22;;5,53;7,75;;;;;230000;;;9,9;0,887;;;;58;;;;;
+Arroyos;TI009;22,46;;5,81;7,85;;;;;230000;;;10,1;1,922;;;;77;;;;;
+Ensenada;EN084;23,93;;5,04;7,54;;;;;230000;;;12,7;1,295;;;;76;;;;;
+Costaneras;VL031;22,56;;5,67;7,78;;;;;230000;;;13,3;1,057;;;;73;;;;;
+Ensenada;EN084;22,1;20;5,78;7,25;;;;;;;;7,2;0,294;;;;66;;;;;
+Reservas y Puertos;SI022;21,9;20;5,87;7,43;;;;;;;;7,09;0,338;;;;68;;;;;
+Ensenada;EN084;21,6;20;6,75;7,49;;;;;;;;7,43;0,082;;;;68;;;;;
+Reservas y Puertos;SI022;21;20;9;;;;;;;;;7,22;0,412;;;;;;;;;
+Balnearios;BS092;;;;;;;;;;;;5,63;0,184;;;;;;;;;
+Reservas y Puertos;SI022;20,9;18;8,88;8,17;;;;;24000;2400;2400;13,2;0,142;;;;77;;;;;
+TOMA DE AGUA;EN082;21,6;18;6,49;7,65;;;;;;;;18;0,012;;;;56;;;;;
+Arroyos;TI009;21,6;18;0,96;7,54;;;;;;;;18,5;0,704;;;;68;;;;;
+Reservas y Puertos;SI022;21,4;18;7,25;7,78;;;;;;;;17,5;0,046;;;;56;;;;;
+Balnearios;BS092;21,1;18;9,36;8,09;;;;;;;;8,94;0,066;;;;61;;;;;
+Balnearios;BS092;20,9;19;9,66;7,68;;;;;16000;490;490;9,61;0,146;;;;70;;;;;
+Berisso;BS095;21,6;19;7,95;7,58;;;;;;;;;1,516;;;;120;;;;;
+Canales;TI001;10,3; ;0,7;7,9;;;;;1300;130;130;7,56;1,18;;;;31;;;;;
+Canales;TI001;10,6;;0,5;7,5;;;;;542000;34800;34800;3,61;7,47;;;;48;;;;;
+Rios;TI006;10,4;;0,7;7,4;;;;;5400;230;330;8,37;0,85;;;;10;;;;;
+Rios;TI006;10,3;;0,8;7,5;;;;;1090000;91800;91800;10,97;7,29;;;;41;;;;;
+Rios;TI006;10;;0,7;7,8;;;;;2210000;172000;172000;7,75;18,85;;;;61;;;;;
+Rios;TI006;10,5;;0,5;7,5;;;;;2200;230;490;6,04;0,98;;;;10;;;;;
+Rios;TI006;10,4;;0,8;7,5;;;;;1090000;91800;91800;6,21;4,43;;;;44;;;;;
+Rios;TI006;10,5;;0,6;7,6;;;;;3500;330;490;3,46;0,66;;;;10;;;;;
+Arroyos;TI009;10,5;;0,7;7,4;;;;;2400;130;230;2,78;1,11;;;;10;;;;;
+Costaneras;VL031;;;0,2;7,9;;;;;240000;91800;91800;5,81;8,59;;;;45;;;;;
+Ensenada;EN084;;;0,8;7,6;;;;;24000;3500;3500;8,3;2,17;;;;30;;;;;
+Reservas y Puertos;SI022;;;0,8;7,4;;;;;3500;490;790;5,76;1,32;;;;42;;;;;
+Reservas y Puertos;SI022;;;0,2;7,4;;;;;9180000;1609000;1609000;9,85;6,35;;;;125;;;;;
+Ensenada;EN084;;;1;7,7;;;;;1609000;221000;221000;0,25;14,29;;;;42;;;;;
+Costaneras;VL031;;;0,5;7,4;;;;;278000;54200;54200;4,83;4,14;;;;10;;;;;
+Reservas y Puertos;SI022;;;0,7;7,5;;;;;160900;9200;9200;9,61;4,39;;;;40;;;;;
+Ensenada;EN084;16,2;17;2,99;7,14;;;;;2700;;1200;7,6;3,72;;;;35;;;;;
+Arroyos;TI009;13,5;12;8,98;7,37;;;;;310;;230;7,84;0,66;;;;35;;;;;
+Arroyos;TI009;13,4;12;2,7;7,43;;;;;330000;;140000;6,37;1,52;;;;10;;;;;
+Costaneras;VL031;13;12;8,37;7,3;;;;;490;;170;7,15;1,22;;;;37;;;;;
+Playas;BS091;13,7;12;8,87;7,52;;;;;2600;;800;13,04;0,99;;;;100;;;;;
+Ensenada;EN084;9;;0,4;7,9;;;;;6300000;;700000;11,56;5,39;;;;82;;;;;
+Reservas y Puertos;SI022;9;;0,4;7,9;;;;;46000000;;8000000;12,3;4,62;;;;71;;;;;
+Ensenada;EN084;9;;0,4;7,9;;;;;90000;;70000;24,54;5,75;;;;75;;;;;
+Berisso;BS095;9,1;13;1;7,8;;;;;14000;;2700;7,76;0,77;;;;33;;;;;
+Berisso;BS095;8,9;11;1,3;8,2;;;;;11000;;1300;16,55;1,4;;;;41;;;;;
+Berisso;BS095;9,4;10;2,5;8,1;;;;;63000;;14000;12,93;1,61;;;;41;;;;;
+Reservas y Puertos;SI022;12;10;0,8;7,9;;;;;4900000;;1100000;2,17;9,17;;;;72;;;;;
+Balnearios;BS092;13;10;4,2;8,1;;;;;270000;;70000;9,45;5,1;;;;57;;;;;
+Reservas y Puertos;SI022;12;15;1,6;7,6;;;;;2300;;800;9,32;1,77;;;;20;;;;;
+TOMA DE AGUA;EN082;11;15;1,7;7,8;;;;;43000;;13000;7,53;3,29;;;;32;;;;;
+Arroyos;TI009;12;15;0,2;7,7;;;;;310000;;80000;3,04;7,77;;;;75;;;;;
+Reservas y Puertos;SI022;11;15;0,8;8,1;;;;;9000;;5000;11,46;5,15;;;;53;;;;;
